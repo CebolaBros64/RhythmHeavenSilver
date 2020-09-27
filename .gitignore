@@ -1,7 +1,14 @@
-# Ignore GBA files for copyrights reasons
+# GBA Rom
 *.gba
+# GBA save
 *.sav
+# Backup file, automatically created by HxD
 *.bak
-flipscfg.bin
+# GBA Save State (?)
 *.sgm
+# FLIPS Configuration
+flipscfg.bin
+# Compressed graphics, created as part of the compilation process
+*.cdat
+# Graphics dumped from ROM should go in this folder
 Other (Unneeded) Files/dump
