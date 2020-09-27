@@ -95,7 +95,7 @@ please come back in a bit.[l
 // 0x804f444
 //[l
 //わたしに　できることが　あれば、[l
-//<style=gold><linestyle=5>ちからに　なりますよ<style=4(normal)><linestyle=8>。[l
+//[style=gold][linestyle=5]ちからに　なりますよ[style=4(normal)][linestyle=8]。[l
 //[l
 //[;
 // --- Literal
@@ -104,14 +104,14 @@ please come back in a bit.[l
 // --- Edited
 [l
 I'm pretty good at Rhythm Games.[l
-If you need help, <color=pink>come to the Cafe.[l
+If you need help, [color=pink]come to the Cafe.[l
 [l
 [;
 #WRITE(RtPtr, $9CD2EC)
 // 0x804f488
 //[l
 //ここは　いわゆる　キッサ店です。[l
-//ゲームが　<style=gold><linestyle=5>うまくできないとき<style=4(normal)><linestyle=8>や[l
+//ゲームが　[style=gold][linestyle=5]うまくできないとき[style=4(normal)][linestyle=8]や[l
 //つかれたときにでも　おいで下さい。[;
 // --- Literal
 //[l
@@ -120,7 +120,7 @@ If you need help, <color=pink>come to the Cafe.[l
 //or when you're worn out, please drop by.[;
 // --- Edited
 This is the Cafe.[l
-<color=pink>When you can't finish a game,  [l
+[color=pink]When you can't finish a game,  [l
 or when you just want a break,[l
 please come here and relax.[;
 //[[ comment out these lines and use the pointers elsewhere to test other lines in the “welcome” slot
@@ -365,119 +365,119 @@ sense to have gotten this far.[l
 [;
 #WRITE(RtPtr, $9CD358)
 // 0x804f840
-//<size=large><linesize=large><style=gold><linestyle=5>[l
+//[size=large][linesize=large][style=gold][linestyle=5][l
 //[l
-//アンビリーバボー!!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//アンビリーバボー!![size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //Unbelievable!![;
 // --- Edited
-<size=large><linesize=large><style=gold><linestyle=5>[l
+[size=large][linesize=large][style=gold][linestyle=5][l
 [l
-Unbelievable!!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+Unbelievable!![size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $9CD354)
 // 0x804f868
-//<size=large><linesize=large><style=gold><linestyle=5>[l
+//[size=large][linesize=large][style=gold][linestyle=5][l
 //[l
-//グッド　ジョブ!!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//グッド　ジョブ!![size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //Good Job!![;
 // --- Edited
-<size=large><linesize=large><style=gold><linestyle=5>[l
+[size=large][linesize=large][style=gold][linestyle=5][l
 [l
-Good Job!!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+Good Job!![size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $9CD350)
 // 0x804f88c
-//<size=large><linesize=large><style=gold><linestyle=5>[l
+//[size=large][linesize=large][style=gold][linestyle=5][l
 //[l
-//おめでとー!!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//おめでとー!![size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //Congratulations!![;
 // --- Edited
-<size=large><linesize=large><style=gold><linestyle=5>[l
+[size=large][linesize=large][style=gold][linestyle=5][l
 [l
-Congratulations!!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+Congratulations!![size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $9CD34C)
 // 0x804f8ac
-//<size=large><linesize=large><style=gold><linestyle=5>[l
+//[size=large][linesize=large][style=gold][linestyle=5][l
 //[l
-//やるじゃなーい!!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//やるじゃなーい!![size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //[l
 //You're pretty good!![;
 // --- Edited
-<size=large><linesize=large><style=gold><linestyle=5>[l
+[size=large][linesize=large][style=gold][linestyle=5][l
 [l
-You're good!!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+You're good!![size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $9CD348)
 // 0x804f8d0
-//<size=large><linesize=large><style=gold><linestyle=5>[l
+//[size=large][linesize=large][style=gold][linestyle=5][l
 //[l
-//すごいじゃなーい!!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//すごいじゃなーい!![size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //Not too bad!![;
 // --- Edited
-<size=large><linesize=large><style=gold><linestyle=5>[l
+[size=large][linesize=large][style=gold][linestyle=5][l
 [l
-Not too bad!!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+Not too bad!![size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $F305C)
 #WRITE(RtPtr, $193674)
 #WRITE(RtPtr, $397CF0)
 #WRITE(RtPtr, $9CD36C)
 // 0x804f8f8
-//<size=large><linesize=large><style=gold><linestyle=5>[l
+//[size=large][linesize=large][style=gold][linestyle=5][l
 //[l
-//感動したー！<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//感動したー！[size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //[l
 //I was moved![;
 // --- Edited
-<size=large><linesize=large><style=gold><linestyle=5>[l
+[size=large][linesize=large][style=gold][linestyle=5][l
 [l
-I was moved!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+I was moved![size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $9CD368)
 // 0x804f918
-//<size=large><linesize=large><style=gold><linestyle=5>[l
+//[size=large][linesize=large][style=gold][linestyle=5][l
 //[l
-//グッド　ラック！<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//グッド　ラック！[size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //Good Luck![;
 // --- Edited
-<size=large><linesize=large><style=gold><linestyle=5>[l
+[size=large][linesize=large][style=gold][linestyle=5][l
 [l
-Good Luck!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+Good Luck![size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $9CD364)
 // 0x804f93c
-//<size=large><linesize=large><style=gold><linestyle=5>[l
+//[size=large][linesize=large][style=gold][linestyle=5][l
 //[l
-//イケイケー！<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//イケイケー！[size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //Go! Go![;
 // --- Edited
-<size=large><linesize=large><style=gold><linestyle=5>[l
+[size=large][linesize=large][style=gold][linestyle=5][l
 [l
-Go! Go!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+Go! Go![size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $9CD360)
 // 0x804f95c
-//<size=large><linesize=large><style=gold><linestyle=5>[l
+//[size=large][linesize=large][style=gold][linestyle=5][l
 //[l
-//ファイトー！<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//ファイトー！[size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //Fight![;
 // --- Edited
-<size=large><linesize=large><style=gold><linestyle=5>[l
+[size=large][linesize=large][style=gold][linestyle=5][l
 [l
-Fight!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+Fight![size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $9CD35C)
 // 0x804f97c
-//<size=large><linesize=large><style=gold><linestyle=5>[l
+//[size=large][linesize=large][style=gold][linestyle=5][l
 //[l
-//がんばれー！<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//がんばれー！[size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //Go for it![;
 // --- Edited
-<size=large><linesize=large><style=gold><linestyle=5>[l
+[size=large][linesize=large][style=gold][linestyle=5][l
 [l
-Go for it!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+Go for it![size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $9CD3AC)
 // 0x804fc0c
 //[l
@@ -979,20 +979,20 @@ Was that you on [;
 #WRITE(RtPtr, $11028)
 #WRITE(RtPtr, $11098)
 // 0x8050728
-//<style=gold><linestyle=5>[;
+//[style=gold][linestyle=5][;
 // --- Literal
 //[;
 // --- Edited
-<style=gold><linestyle=5>[;
+[style=gold][linestyle=5][;
 #WRITE(RtPtr, $10EF0)
 #WRITE(RtPtr, $10F5C)
 // 0x8050730
-//<style=4(normal)><linestyle=8>で[l
+//[style=4(normal)][linestyle=8]で[l
 //[;
 // --- Literal
 //and/at[;
 // --- Edited
-<style=4(normal)><linestyle=8> ?[l
+[style=4(normal)][linestyle=8] ?[l
 [;
 #WRITE(RtPtr, $10EF4)
 // 0x8050738
@@ -1031,12 +1031,12 @@ Are you having trouble?[l
 Hmm... is [;
 #WRITE(RtPtr, $10FC4)
 // 0x8050794
-//<style=4(normal)><linestyle=8>に[l
+//[style=4(normal)][linestyle=8]に[l
 //[;
 // --- Literal
 //to[;
 // --- Edited
- <style=4(normal)><linestyle=8>giving[l
+ [style=4(normal)][linestyle=8]giving[l
 [;
 #WRITE(RtPtr, $10FC8)
 // 0x805079c
@@ -1060,14 +1060,14 @@ you trouble earning that medal?[l
 Rumor has it [;
 #WRITE(RtPtr, $1102C)
 // 0x80507d8
-//<style=4(normal)><linestyle=8>　ばかり[l
+//[style=4(normal)][linestyle=8]　ばかり[l
 //[;
 // --- Literal
 //[l
 //only[;
 // --- Edited
 [l
-<style=4(normal)><linestyle=8>was doing a perfect campaign.[;
+[style=4(normal)][linestyle=8]was doing a perfect campaign.[;
 #WRITE(RtPtr, $11030)
 // 0x80507e8
 //してるみたいですね。[;
@@ -1109,14 +1109,14 @@ Hey, here's a tip:[l
 Soon [;
 #WRITE(RtPtr, $1109C)
 // 0x805083c
-//<style=4(normal)><linestyle=8>で、[l
+//[style=4(normal)][linestyle=8]で、[l
 //パーフェクトキャンペーンを[l
 //するそうですヨ。[;
 // --- Literal
 //and,[l
 //looks like there's going to be a Perfect Campaign.[;
 // --- Edited
-  <style=4(normal)><linestyle=8>is going[l
+  [style=4(normal)][linestyle=8]is going[l
 to be having a perfect campaign.
 [l
 [;
@@ -1139,7 +1139,7 @@ I'll be here rooting for you~![l
 #WRITE(RtPtr, $11100)
 // 0x80508b0
 //う■ん、もし　よければ　なんだけどね、[l
-//<style=gold><linestyle=5>進めるようにしておく<style=4(normal)><linestyle=8>けど…？[l
+//[style=gold][linestyle=5]進めるようにしておく[style=4(normal)][linestyle=8]けど…？[l
 //[l
 //　　　　　　　　「おねがいします」[l
 //　　　　　　　　「けっこうです」[;
@@ -1151,7 +1151,7 @@ I'll be here rooting for you~![l
 //“I'm okay”[;
 // --- Edited
 If you like, I could let you[l
-<style=gold><linestyle=5>skip that game <style=4(normal)><linestyle=8> if you want to...[l
+[style=gold][linestyle=5]skip that game [style=4(normal)][linestyle=8] if you want to...[l
 [l
               “Please skip it.”[l
               “No, thank you.”[;
@@ -1159,13 +1159,13 @@ If you like, I could let you[l
 // 0x8050944
 //[l
 //[l
-//<size=large><linesize=large><style=gold><linestyle=5>まかせとき！<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//[size=large][linesize=large][style=gold][linestyle=5]まかせとき！[size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //Time to leave it to me![;
 // --- Edited
 [l
 [l
-<size=large><linesize=large><style=gold><linestyle=5>Leave it to me!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+[size=large][linesize=large][style=gold][linestyle=5]Leave it to me![size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $9CD370)
 // 0x804fa50
 //[l
@@ -1549,7 +1549,7 @@ do your best![l
 #WRITE(RtPtr, $111B4)
 #WRITE(RtPtr, $8001DC)
 // 0x8050a10
-//<style=gold><linestyle=5>パーフェクト　キャンペーン<style=4(normal)><linestyle=8>　に　そなえて　れんしゅうですか？[l
+//[style=gold][linestyle=5]パーフェクト　キャンペーン[style=4(normal)][linestyle=8]　に　そなえて　れんしゅうですか？[l
 //[l
 //　　　　　　　　「そうなんです」[l
 //　　　　　　　　「ちがいますヨ」[;
@@ -1560,7 +1560,7 @@ do your best![l
 //“Incorrect!”[;
 // --- Edited
 Were you practicing for the [l
-<style=gold><linestyle=5>Perfect Campaign?<style=4(normal)><linestyle=8>[l
+[style=gold][linestyle=5]Perfect Campaign?[style=4(normal)][linestyle=8][l
 [l
             “That's right.”[l
             “Not right now.”[;
@@ -1600,15 +1600,15 @@ the Perfect Campaign![l
 #WRITE(RtPtr, $59D978)
 #WRITE(RtPtr, $784334)
 // 0x8050b14
-//<size=large><linesize=large><style=gold><linestyle=5>[l
+//[size=large][linesize=large][style=gold][linestyle=5][l
 //[l
-//めちゃすごーい!!<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//めちゃすごーい!![size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //Crazy awwwesome![;
 // --- Edited
-<size=large><linesize=large><style=gold><linestyle=5>[l
+[size=large][linesize=large][style=gold][linestyle=5][l
 [l
-Crazy awesome!<size=small><linesize=small><style=4(normal)><linestyle=8>[l
+Crazy awesome![size=small][linesize=small][style=4(normal)][linestyle=8][l
 [l
 [;
 //stop cafe
@@ -1743,7 +1743,7 @@ New Game[;
 // --- Literal
 //Welcome back, “[;
 // --- Edited [pc
-<linealign=center>”[;
+[linealign=center]”[;
 #WRITE(RtPtr, $12DC4)
 // 0x8050be8
 //」でパーフェクトを達成すると[;
@@ -4855,32 +4855,32 @@ Pluck the hairs with A or the D-Pad![;
 #WRITE(RtPtr, $9FB5F0)
 #WRITE(RtPtr, $9FB848)
 // 0x805b580
-//<style=bold><linestyle=4><size=medium><linesize=medium>ＯＫ[;
+//[style=bold][linestyle=4][size=medium][linesize=medium]ＯＫ[;
 // --- Literal
 //OK[;
 // --- Edited
-<style=bold><linestyle=4><size=medium><linesize=medium>OK[;
+[style=bold][linestyle=4][size=medium][linesize=medium]OK[;
 #WRITE(RtPtr, $9FB428)
 // 0x805b590
-//<style=4(normal)><linestyle=8><size=small><linesize=small>まきヒゲは　ボタンを長く押して引っぱってネ。[;
+//[style=4(normal)][linestyle=8][size=small][linesize=small]まきヒゲは　ボタンを長く押して引っぱってネ。[;
 // --- Literal
 //The curly hairs, pull then for a long time by holding the button.[;
 // --- Edited
-<style=4(normal)><linestyle=8><size=small><linesize=small>The curly hairs take a while. Hold down the button.[;
+[style=4(normal)][linestyle=8][size=small][linesize=small]The curly hairs take a while. Hold down the button.[;
 #WRITE(RtPtr, $9FB62C)
 // 0x805b5c8
-//<style=4(normal)><linestyle=8><size=small><linesize=small>多いときは、両手でするとラクだヨ。[;
+//[style=4(normal)][linestyle=8][size=small][linesize=small]多いときは、両手でするとラクだヨ。[;
 // --- Literal
 //The parts where there's a lot, it's easier if you use both hands.[;
 // --- Edited
-<style=4(normal)><linestyle=8><size=small><linesize=small>Overwhelmed? Try alternating A and the D-Pad.[;
+[style=4(normal)][linestyle=8][size=small][linesize=small]Overwhelmed? Try alternating A and the D-Pad.[;
 #WRITE(RtPtr, $9FB884)
 // 0x805b5f4
-//<style=4(normal)><linestyle=8><size=small><linesize=small>では、ほんばんです。[;
+//[style=4(normal)][linestyle=8][size=small][linesize=small]では、ほんばんです。[;
 // --- Literal
 //OK then, here's the real thing.[;
 // --- Edited
-<style=4(normal)><linestyle=8><size=small><linesize=small>Okay then, here's the real thing.[;
+[style=4(normal)][linestyle=8][size=small][linesize=small]Okay then, here's the real thing.[;
 #WRITE(RtPtr, $9FB95C)
 #WRITE(RtPtr, $9F9B68)
 // 0x805b6e4
@@ -5071,7 +5071,7 @@ The alien rescue was a huge success![;
 // --- Literal
 //Today's duty is cleaning~♪[;
 // --- Edited
-Today's duty is cleaning～♪[;
+Today's duty is cleaning~♪[;
 #WRITE(RtPtr, $9CE618)
 // 0x80535ec
 //わぁっ！おいてけぼりされた！[;
@@ -5419,7 +5419,7 @@ Again, [;
 // --- Literal
 //...but,[;
 // --- Edited
-//...but<$2C> [;[;
+//...but<$2C] [;[;
 ...but [;[;[;
 //う■ん．[;
 #WRITE(RtPtr, $19D54)
@@ -5961,7 +5961,7 @@ Sick Beats[;
 //It's a germ outbreak![l
 //Help, professor~”[;
 // --- Edited
-<color=pink>Memo from Assistant[l
+[color=pink]Memo from Assistant[l
 We have quite a germ[l
 outbreak on our[l
 hands. Help us! (NP)[;
@@ -6047,7 +6047,7 @@ and sing along![;
 // --- Literal
 //Let's Bon-odori![;
 // --- Edited
-.6:1Ｌｅｔ’ｓ　ｄｏ　ｔｈｅ　Ｂｏｎ－Ｏｄｏｒｉ　ｄａｎｃｅ！[;
+.6:1Ｌｅｔ’ｓ　ｄｏ　ｔｈｅ　Ｂｏｎ−Ｏｄｏｒｉ　ｄａｎｃｅ！[;
 #WRITE(RtPtr, $A484D8)
 // 0x8067aa4
 //.6:1みんなの　てびょうしを　まねしてネ。[;
@@ -6085,7 +6085,7 @@ and sing along![;
 // --- Literal
 //Haa~[;
 // --- Edited [first line of song
-.0:0Ｈａ～[;
+.0:0Ｈａ~[;
 #WRITE(RtPtr, $A43FCC)
 // 0x8067794
 //.0:0はなび　あがれば■[;
@@ -6094,7 +6094,7 @@ and sing along![;
 // --- Edited
 //.0:0When the fireworks go up~[;
 //.0:0In the fireworks bright aura~[;
-.0:0Ｗｈｅｎ　ｒｏｃｋｅｔｓ　ｓｔａｒｔ　ｔｏ　ｆｌｙ～[;
+.0:0Ｗｈｅｎ　ｒｏｃｋｅｔｓ　ｓｔａｒｔ　ｔｏ　ｆｌｙ~[;
 #WRITE(RtPtr, $A44104)
 #WRITE(RtPtr, $A4459C)
 #WRITE(RtPtr, $A44A34)
@@ -6106,7 +6106,7 @@ and sing along![;
 // --- Literal
 //Do--n do--n pa--n pa--n[;
 // --- Edited
-.1:0Ｄｏ－ｎ　ｄｏ－ｎ　.2:0ｐａ－ｎ　ｐａ－ｎ[;
+.1:0Ｄｏ−ｎ　ｄｏ−ｎ　.2:0ｐａ−ｎ　ｐａ−ｎ[;
 #WRITE(RtPtr, $A44134)
 #WRITE(RtPtr, $A445CC)
 #WRITE(RtPtr, $A44A64)
@@ -6121,7 +6121,7 @@ and sing along![;
 // --- Literal
 //dondo pa--n pan[;
 // --- Edited
-.1:0Ｄｏｎｄｏ　.2:0ｐａ－ｎ　ｐａｎ[;
+.1:0Ｄｏｎｄｏ　.2:0ｐａ−ｎ　ｐａｎ[;
 #WRITE(RtPtr, $A44434)
 #WRITE(RtPtr, $A44D64)
 #WRITE(RtPtr, $A46468)
@@ -6130,7 +6130,7 @@ and sing along![;
 // --- Literal
 //Ha~ Ah~[;
 // --- Edited
-.0:0Ｈａ～　Ａｈ～[;
+.0:0Ｈａ~　Ａｈ~[;
 #WRITE(RtPtr, $A44464)
 // 0x8067828
 //.0:0かんせい　あがる■[;
@@ -6138,24 +6138,24 @@ and sing along![;
 //Kansei agaru~ (the cheers go up)[;
 // --- Edited
 //.0:0The cheers go upward~[;
-//.0:0Up goes a cheer anew～[;
-.0:0Ｃｈｅｅｒｓ　ｗｉｌｌ　ｆｉｌｌ　ｔｈｅ　ｓｋｙ～[;
+//.0:0Up goes a cheer anew~[;
+.0:0Ｃｈｅｅｒｓ　ｗｉｌｌ　ｆｉｌｌ　ｔｈｅ　ｓｋｙ~[;
 #WRITE(RtPtr, $A448FC)
 // 0x8067840
 //.0:0にんき　あがれば■[;
 // --- Literal
 //Ninki agareba~ (If popularity goes up)[;
 // --- Edited
-//.0:0If passions climb upward～[;
-.0:0Ｗｈｅｎ　ｔｈｅ　ｓｐｉｒｉｔｓ　ａｒｅ　ｈｉｇｈ～[;
+//.0:0If passions climb upward~[;
+.0:0Ｗｈｅｎ　ｔｈｅ　ｓｐｉｒｉｔｓ　ａｒｅ　ｈｉｇｈ~[;
 #WRITE(RtPtr, $A44D94)
 // 0x8067858
 //.0:0きゅうりょう　あがる■[;
 // --- Literal
 //Kyuuryou agaru~ (the wages/sales go up)[;
 // --- Edited
-//.0:0The sales will all go upward～[;
-.0:0Ｔｈｅ　ｍｏｒｅ　ｐｅｏｐｌｅ　ｗｉｌｌ　ｂｕｙ～[;
+//.0:0The sales will all go upward~[;
+.0:0Ｔｈｅ　ｍｏｒｅ　ｐｅｏｐｌｅ　ｗｉｌｌ　ｂｕｙ~[;
 #WRITE(RtPtr, $A451FC)
 // 0x8067874
 //.0:0まつりだ　わっしょい！[;
@@ -6184,7 +6184,7 @@ and sing along![;
 // --- Literal
 //do--n do--n pan[;
 // --- Edited
-.1:0Ｄｏ－ｎ　ｄｏ－ｎ　.2:0ｐａｎ[;
+.1:0Ｄｏ−ｎ　ｄｏ−ｎ　.2:0ｐａｎ[;
 #WRITE(RtPtr, $A45790)
 #WRITE(RtPtr, $A46F60)
 // 0x8067924
@@ -6200,7 +6200,7 @@ and sing along![;
 // --- Literal
 //Haa~  Bon-Odori[;
 // --- Edited
-.0:0Ｈａａ～　Ｂｏｎ－Ｏｄｏｒｉ[;
+.0:0Ｈａａ~　Ｂｏｎ−Ｏｄｏｒｉ[;
 #WRITE(RtPtr, $A45AF0)
 #WRITE(RtPtr, $A45B20)
 #WRITE(RtPtr, $A472C0)
@@ -6226,21 +6226,21 @@ and sing along![;
 // --- Literal
 //Do--n pa--n pan[;
 // --- Edited
-.1:0Ｄｏ－ｎ　.2:0ｐａ－ｎ　ｐａｎ[;
+.1:0Ｄｏ−ｎ　.2:0ｐａ−ｎ　ｐａｎ[;
 #WRITE(RtPtr, $A4606C)
 // 0x80679ac
 //.0:0アメが　あがれば■[;
 // --- Literal
 //Ame ga agareba~ (When the rain stops)[;
 // --- Edited
-.0:0Ｗｈｅｎ　ｔｈｅ　ｒａｉｎ　ｉｓ　ｄｒｙ～[;
+.0:0Ｗｈｅｎ　ｔｈｅ　ｒａｉｎ　ｉｓ　ｄｒｙ~[;
 #WRITE(RtPtr, $A46498)
 // 0x80679c4
 //.0:0やぐらに　あがる■[;
 // --- Literal
 //Yagura ni agaru~ (go up to the turret/scaffold)[;
 // --- Edited
-.0:0Ｃｌｉｍｂ　ｕｐ　ｔｈｅ　ｔｕｒｒｅｔ　ａｎｄ　ｓｐｙ～[;
+.0:0Ｃｌｉｍｂ　ｕｐ　ｔｈｅ　ｔｕｒｒｅｔ　ａｎｄ　ｓｐｙ~[;
 #WRITE(RtPtr, $A468D0)
 // 0x80679dc
 //.0:0ほら！　まつりだ　わっしょい！[;
@@ -6276,7 +6276,7 @@ and sing along![;
 // --- Literal
 //do--n do--n pa--n pan[;
 // --- Edited
-.1:0Ｄｏ－ｎ　.1:0ｄｏ－ｎ　.2:0ｐａ－ｎ　.2:0ｐａｎ[;
+.1:0Ｄｏ−ｎ　.1:0ｄｏ−ｎ　.2:0ｐａ−ｎ　.2:0ｐａｎ[;
 #WRITE(RtPtr, $A43C6C)
 // 0x8067778
 //まわりの評判[;
@@ -6371,7 +6371,7 @@ Bon festival! (NP)[;
 // --- Literal
 //Do--n pa--n pan[;
 // --- Edited
-.1:0Ｄｏ－ｎ　.2:0ｐａ－ｎ　ｐａｎ[;
+.1:0Ｄｏ−ｎ　.2:0ｐａ−ｎ　ｐａｎ[;
 #WRITE(RtPtr, $A5177C)
 #WRITE(RtPtr, $A52DFC)
 // 0x8067f90
@@ -6380,7 +6380,7 @@ Bon festival! (NP)[;
 //do--n do--n pa--n pan[;
 // --- Edited
 //.1:0Ｄ:1ｏｎ　.1:0ｄ:1ｏｎ　.2:0ｐ.2:1ａｎ　.2:0ｐ.2:1ａｎ[;
-.1:0Ｄｏ－ｎ　.1:0ｄｏ－ｎ　.2:0ｐａ－ｎ　.2:0ｐａｎ[;
+.1:0Ｄｏ−ｎ　.1:0ｄｏ−ｎ　.2:0ｐａ−ｎ　.2:0ｐａｎ[;
 #WRITE(RtPtr, $A51CA4)
 // 0x8067fcc
 //.1:0ど:1んど　.2:0ぱ.2:1ーん　.2:0ぱ.2:1ん[;
@@ -6388,7 +6388,7 @@ Bon festival! (NP)[;
 //dondo pa--n pan[;
 // --- Edited
 //.1:0Ｄ:1ｏｎｄｏ　.2:0Ｐ.2:1ａｎ.2:0ｐ.2:1ａ[;
-.1:0Ｄｏｎｄｏ　.2:0ｐａ－ｎ　.2:0ｐａｎ[;
+.1:0Ｄｏｎｄｏ　.2:0ｐａ−ｎ　.2:0ｐａｎ[;
 #WRITE(RtPtr, $A52598)
 // 0x8067ff8
 //こい　してる？[;
@@ -6943,7 +6943,7 @@ is about to start![;
 // --- Literal [tram says this
 //for me, the D-pad,[;
 // --- Edited
-ｐｒｅｓｓ　ｔｈｅ　Ｄ－Ｐａｄ　ｆｏｒ　ｍｅ[;
+ｐｒｅｓｓ　ｔｈｅ　Ｄ−Ｐａｄ　ｆｏｒ　ｍｅ[;
 #WRITE(RtPtr, $A2E520)
 // 0x805dc0c
 //あたしは　Ａボタンで、[;
@@ -7234,43 +7234,43 @@ popular these days.[l
 (No practice.)[;
 #WRITE(RtPtr, $A6072C)
 // 0x806a0d4
-//<style=gold><linestyle=5>　♪　恋のハニースイ■トエンジェル[;
+//[style=gold][linestyle=5]　♪　恋のハニースイ■トエンジェル[;
 // --- Literal
 //♪Honey Sweet Angel of Love[;
 // --- Edited [all but the "Sponsored by" text appears in the top left of the screen as white text, no background. It looks like it runs properly with these tags.
-<style=gold><linestyle=5>♪Love's Honey Sweet Angel[;
+[style=gold][linestyle=5]♪Love's Honey Sweet Angel[;
 #WRITE(RtPtr, $A61E24)
 // 0x806a0fc
-//<style=gold><linestyle=5>　うた　　時東　ぁみ[;
+//[style=gold][linestyle=5]　うた　　時東　ぁみ[;
 // --- Literal
 //Sung by:  Tokitou aMi[;
 // --- Edited
-<style=gold><linestyle=5>Sung by: Tokitou aMi[;
+[style=gold][linestyle=5]Sung by: Tokitou aMi[;
 #WRITE(RtPtr, $A61F74)
 // 0x806a118
-//<style=gold><linestyle=5>　作詞　作曲　　つんく[;
+//[style=gold][linestyle=5]　作詞　作曲　　つんく[;
 // --- Literal
 //Lyrics/Song:  Tsunku[;
 // --- Edited
-<style=gold><linestyle=5>Lyrics & Song:  Tsunku[;
+[style=gold][linestyle=5]Lyrics & Song:  Tsunku[;
 #WRITE(RtPtr, $A620C4)
 // 0x806a134
-//<style=gold><linestyle=5>　編曲　　鈴木Daichi秀行[;
+//[style=gold][linestyle=5]　編曲　　鈴木Daichi秀行[;
 // --- Literal
 //Arrangement:  Suzuki Daichi Hideyuki[;
 // --- Edited
 // abbreviated because it overlaps the "Go for it!" when doing perfect campaign
-//<style=gold><linestyle=5>Arrange: Suzuki Daichi Hideyuki[;
-<style=gold><linestyle=5>Arrangement: S. Daichi Hideyuki
+//[style=gold][linestyle=5]Arrange: Suzuki Daichi Hideyuki[;
+[style=gold][linestyle=5]Arrangement: S. Daichi Hideyuki
 #WRITE(RtPtr, $A62340)
 // 0x806a154
 //[l
-//<style=gold><linestyle=5><linealign=center>提供　　J.P.ROOM[;
+//[style=gold][linestyle=5][linealign=center]提供　　J.P.ROOM[;
 // --- Literal
 //Sponsored by:  J.P.ROOM[;
 // --- Edited [this text is supposed to be vertically and horizontally centered on the screen.
 [l
-<style=gold><linestyle=5><linealign=center>Sponsored by:  J.P. ROOM[;
+[style=gold][linestyle=5][linealign=center]Sponsored by:  J.P. ROOM[;
 #WRITE(RtPtr, $A60648)
 // 0x806a0b8
 //なぞのリズム組織から通達[;
@@ -7691,25 +7691,25 @@ and put a spring in[l
 your step. (NP)[;
 #WRITE(RtPtr, $9F5378)
 // 0x805b1fc
-//<style=gold><linestyle=5>音楽にノって　ジャンプしてネ！[;
+//[style=gold][linestyle=5]音楽にノって　ジャンプしてネ！[;
 // --- Literal
 //Jump by riding the music![;
 // --- Edited
-<style=gold><linestyle=5>Jump by riding the music![;
+[style=gold][linestyle=5]Jump by riding the music![;
 #WRITE(RtPtr, $9F5D14)
 // 0x805b220
-//<style=gold><linestyle=5>音楽が おわる前に 星でいっぱいにしてネ！[;
+//[style=gold][linestyle=5]音楽が おわる前に 星でいっぱいにしてネ！[;
 // --- Literal
 //Fill the sky with stars before the song is over![;
 // --- Edited
-<style=gold><linestyle=5>Fill the sky with stars before the end![;
+[style=gold][linestyle=5]Fill the sky with stars before the end![;
 #WRITE(RtPtr, $9F650C)
 // 0x805b250
-//<style=gold><linestyle=5>もうすぐ　おわりだヨ！[;
+//[style=gold][linestyle=5]もうすぐ　おわりだヨ！[;
 // --- Literal
 //It's almost the end![;
 // --- Edited
-<style=gold><linestyle=5>It's almost over![;
+[style=gold][linestyle=5]It's almost over![;
 #WRITE(RtPtr, $9F5288)
 // 0x805b1f4
 //星の声[;
@@ -8707,14 +8707,14 @@ We join our friends in the middle of practice...[;
 #WRITE(RtPtr, $A29614)
 // 0x805d7cc
 //ひっさつワザ　１[l
-//<size=medium><linesize=medium><style=bold><linestyle=4>ＡＢ　トストス<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//[size=medium][linesize=medium][style=bold][linestyle=4]ＡＢ　トストス[size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //Killer Technique / Super Art 1[l
 //[l
 //A B Toss Toss[;
 // --- Edited
 Super Toss Technique 1[l
-<size=medium><linesize=medium><style=bold><linestyle=4>A B Dual Toss<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+[size=medium][linesize=medium][style=bold][linestyle=4]A B Dual Toss[size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $A29BC0)
 // 0x805d7fc
 //[l
@@ -8736,14 +8736,14 @@ Nice technique![;
 #WRITE(RtPtr, $A2A1B4)
 // 0x805d818
 //ひっさつワザ　２[l
-//<size=medium><linesize=medium><style=bold><linestyle=4>セルフ　ブルー<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//[size=medium][linesize=medium][style=bold][linestyle=4]セルフ　ブルー[size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //Killer Technique / Super Art 2[l
 //[l
 //Self Blue--[;
 // --- Edited
 Super Toss Technique 2[l
-<size=medium><linesize=medium><style=bold><linestyle=4>Blue Blur Toss<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+[size=medium][linesize=medium][style=bold][linestyle=4]Blue Blur Toss[size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $A2A784)
 // 0x805d848
 //[l
@@ -8765,14 +8765,14 @@ That's exactly right![;
 #WRITE(RtPtr, $A2AD9C)
 // 0x805d86c
 //ひっさつワザ　３[l
-//<size=medium><linesize=medium><style=bold><linestyle=4>イエロー　クイック<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+//[size=medium][linesize=medium][style=bold][linestyle=4]イエロー　クイック[size=small][linesize=small][style=4(normal)][linestyle=8][;
 // --- Literal
 //Killer Technique / Super Art 3[l
 //[l
 //Yellow Quick[;
 // --- Edited
 Super Toss Technique 3[l
-<size=medium><linesize=medium><style=bold><linestyle=4>Yellow Lightning Toss<size=small><linesize=small><style=4(normal)><linestyle=8>[;
+[size=medium][linesize=medium][style=bold][linestyle=4]Yellow Lightning Toss[size=small][linesize=small][style=4(normal)][linestyle=8][;
 #WRITE(RtPtr, $A2B2E8)
 // 0x805d8a0
 //[l
@@ -9046,7 +9046,7 @@ are amazing![;
 // --- Literal
 //Tama ya~  (It's a ball~) HAI! (GO!/NOW!)[;
 // --- Edited
-.bＩｔ’ｓ　.bａ　.bｂａｌｌ.b～　.bＧＯ！[;
+.bＩｔ’ｓ　.bａ　.bｂａｌｌ.b~　.bＧＯ！[;
 #WRITE(RtPtr, $A1B2BC)
 #WRITE(RtPtr, $A1B3A0)
 // 0x805d030
@@ -9054,7 +9054,7 @@ are amazing![;
 // --- Literal
 //Tama ya~  (It's a ball~)   HAI! (GO!/NOW!)[;
 // --- Edited
-.dＩｔ’ｓ　.bａ　.bｂａｌｌ.b～　.bＧＯ！[;
+.dＩｔ’ｓ　.bａ　.bｂａｌｌ.b~　.bＧＯ！[;
 #WRITE(RtPtr, $A1B2D4)
 #WRITE(RtPtr, $A1B3B8)
 // 0x805d050
@@ -9062,7 +9062,7 @@ are amazing![;
 // --- Literal
 //Tama ya~  (It's a ball~)   HAI! (GO!/NOW!)[;
 // --- Edited
-.dＩｔ’ｓ　.dａ　.bｂａｌｌ.b～　.bＧＯ！[;
+.dＩｔ’ｓ　.dａ　.bｂａｌｌ.b~　.bＧＯ！[;
 #WRITE(RtPtr, $A1B2EC)
 #WRITE(RtPtr, $A1B3D0)
 // 0x805d070
@@ -9070,7 +9070,7 @@ are amazing![;
 // --- Literal
 //Tama ya~  (It's a ball~)   HAI! (GO!/NOW!)[;
 // --- Edited
-.dＩｔ’ｓ　.dａ　.dｂａｌｌ.b～　.bＧＯ！[;
+.dＩｔ’ｓ　.dａ　.dｂａｌｌ.b~　.bＧＯ！[;
 #WRITE(RtPtr, $A1B304)
 #WRITE(RtPtr, $A1B3E8)
 // 0x805d090
@@ -9078,7 +9078,7 @@ are amazing![;
 // --- Literal
 //Tama ya~  (It's a ball~)   HAI! (GO!/NOW!)[;
 // --- Edited
-.dＩｔ’ｓ　.dａ　.dｂａｌｌ.d～　.bＧＯ！[;
+.dＩｔ’ｓ　.dａ　.dｂａｌｌ.d~　.bＧＯ！[;
 #WRITE(RtPtr, $A1B328)
 #WRITE(RtPtr, $A1B40C)
 // 0x805d0b0
@@ -9086,7 +9086,7 @@ are amazing![;
 // --- Literal
 //Tama ya~  (It's a ball~)   HAI! (GO!/NOW!)[;
 // --- Edited
-.cＩｔ’ｓ　.cａ　.cｂａｌｌ.c～　.cＧＯ！[;
+.cＩｔ’ｓ　.cａ　.cｂａｌｌ.c~　.cＧＯ！[;
 #WRITE(RtPtr, $A1B4B4)
 // 0x805d0d0
 //さあ、　ではホンバン！[;
@@ -9393,21 +9393,21 @@ some footage from[l
 our music video! (NP)[;
 #WRITE(RtPtr, $A648C8)
 // 0x806a2f4
-//<linealign=right><style=gold><linestyle=5>♪ WISH 君を待てなくて　[;
+//[linealign=right][style=gold][linestyle=5]♪ WISH 君を待てなくて　[;
 // --- Literal
 //♪ WISH  Couldn't Wait for You[;
 // --- Edited [[check the title is translated correctly
-<linealign=right><style=gold><linestyle=5>♪ WISH  Couldn't Wait for You  [;
+[linealign=right][style=gold][linestyle=5]♪ WISH  Couldn't Wait for You  [;
 #WRITE(RtPtr, $A66818)
 // 0x806a314
-//<linesize=large>　うた　　田中　総史[;
+//[linesize=large]　うた　　田中　総史[;
 // --- Literal
 //Sung by:  Tanaka Soushi[;
 // --- Edited
-<linesize=large> Sung by: Tanaka Soushi[;
+[linesize=large] Sung by: Tanaka Soushi[;
 #WRITE(RtPtr, $A66B24)
 // 0x806a32c
-//<linesize=large>作詞　作曲[l
+//[linesize=large]作詞　作曲[l
 //　　　　　　　　つんく[l
 //編曲[l
 //　　　　　　　　湯浅　公一[;
@@ -9422,11 +9422,11 @@ Arrangement by:[l
 　　　　　　　　Yuasa Kouichi[;
 #WRITE(RtPtr, $A66C68)
 // 0x806a370
-//<linealign=center>提供　　J.P.ROOM[;
+//[linealign=center]提供　　J.P.ROOM[;
 // --- Literal [[probably can be reworded - check with someone who knows Japanese
 //Sponsoring:   J.P. ROOM[;
 // --- Edited
-<linealign=center>Sponsored by: J.P. ROOM[;
+[linealign=center]Sponsored by: J.P. ROOM[;
 #WRITE(RtPtr, $A64868)
 // 0x806a2d8
 //なぞのリズム組織から通達[;
@@ -9653,7 +9653,7 @@ spirits, yay! (NP)[;
 // 0x806a4e4
 //.0:0ハァ■　ア■[;
 // --- Literal
-//Ha～  Ah～[;
+//Ha~  Ah~[;
 // --- Edited
 .0:0Ｈａ　Ａｈ[;
 #WRITE(RtPtr, $A67628)
@@ -9739,7 +9739,7 @@ spirits, yay! (NP)[;
 // --- Literal
 //Haa~ Bon-odori[;
 // --- Edited
-.0:0Ｈａａ～　Ｂｏｎ－Ｏｄｏｒｉ[;
+.0:0Ｈａａ~　Ｂｏｎ−Ｏｄｏｒｉ[;
 #WRITE(RtPtr, $A68DBC)
 #WRITE(RtPtr, $A6A640)
 #WRITE(RtPtr, $A6AAF0)
@@ -10089,7 +10089,7 @@ cute voices! (NP)[;
 // --- Literal
 //Let's do it again some time~[;
 // --- Edited
-Ｌｅｔ’ｓ　ｔｏｔａｌｌｙ　ｄｏ　ｔｈａｔ　ａｇａｉｎ　ｓｏｍｅ　ｔｉｍｅ～！[;
+Ｌｅｔ’ｓ　ｔｏｔａｌｌｙ　ｄｏ　ｔｈａｔ　ａｇａｉｎ　ｓｏｍｅ　ｔｉｍｅ~！[;
 #WRITE(RtPtr, $A4B558)
 // 0x8067d70
 //アノコらのコメント[;
@@ -10364,7 +10364,7 @@ winner again![;[;[;
 // --- Literal
 //do--n pa--n pan[;
 // --- Edited
-.1:0Ｄｏ－ｎ　.2:0ｐａ－ｎ　.2:0ｐａｎ[;
+.1:0Ｄｏ−ｎ　.2:0ｐａ−ｎ　.2:0ｐａｎ[;
 #WRITE(RtPtr, $A6F3EC)
 // 0x806a970
 //おわり！[;
@@ -10756,32 +10756,32 @@ watch out for those[l
 fish! (No practice.)[;
 #WRITE(RtPtr, $9F6BAC)
 // 0x805b310
-//<style=gold><linestyle=5>音楽にノって　ジャンプしてネ！[;
+//[style=gold][linestyle=5]音楽にノって　ジャンプしてネ！[;
 // --- Literal
 //Jump by riding the music![;
 // --- Edited
-<style=gold><linestyle=5>Jump to the beat![;
+[style=gold][linestyle=5]Jump to the beat![;
 #WRITE(RtPtr, $9F7230)
 // 0x805b334
-//<style=gold><linestyle=5>ビリビリウオに　当たらないでネ！[;
+//[style=gold][linestyle=5]ビリビリウオに　当たらないでネ！[;
 // --- Literal
 //Don't hit the buzz buzz (electric) fish![;
 // --- Edited
-<style=gold><linestyle=5>Don't hit the electric fish![;
+[style=gold][linestyle=5]Don't hit the electric fish![;
 #WRITE(RtPtr, $9F7668)
 // 0x805b35c
-//<style=gold><linestyle=5>音楽が おわる前に 星でいっぱいにしてネ！[;
+//[style=gold][linestyle=5]音楽が おわる前に 星でいっぱいにしてネ！[;
 // --- Literal
 //Fill the sky with stars before the song ends![;
 // --- Edited
-<style=gold><linestyle=5>Fill the sky with stars before the end![;
+[style=gold][linestyle=5]Fill the sky with stars before the end![;
 #WRITE(RtPtr, $9F7F68)
 // 0x805b38c
-//<style=gold><linestyle=5>もうすぐ　おわりだヨ！[;
+//[style=gold][linestyle=5]もうすぐ　おわりだヨ！[;
 // --- Literal
 //It's almost the end![;
 // --- Edited
-<style=gold><linestyle=5>It's almost over![;
+[style=gold][linestyle=5]It's almost over![;
 #WRITE(RtPtr, $9F6ABC)
 // 0x805b308
 //星の声[;
@@ -11552,14 +11552,14 @@ skills to the test! (NP)[;
 //[l
 //Go for it~!![;
 // --- Edited
-Ｇｏ　ｆｏｒ　ｉｔ～！！[;
+Ｇｏ　ｆｏｒ　ｉｔ~！！[;
 #WRITE(RtPtr, $A70884)
 // 0x806aa50
 //がんばるのだー！！[;
 // --- Literal
 //Do your best-!! / Let's do our best-!![;
 // --- Edited (spoken by marcher commander)
-Ｌｅｔ’ｓ　ｄｏ　ｏｕｒ　ｂｅｓｔ－！！[;
+Ｌｅｔ’ｓ　ｄｏ　ｏｕｒ　ｂｅｓｔ−！！[;
 #WRITE(RtPtr, $A70BD8)
 // 0x806aa64
 //ファイトー！！[;
@@ -11567,7 +11567,7 @@ skills to the test! (NP)[;
 //[l
 //Fight-!![;
 // --- Edited (spoken by tap trial giraffe)
-Ｆｉｇｈｔ－！！[;
+Ｆｉｇｈｔ−！！[;
 #WRITE(RtPtr, $A70ECC)
 // 0x806aa74
 //もう　ひとふんばり！！[;
@@ -11664,18 +11664,18 @@ Today's trip was... pretty much a total wreck.[;
 [;
 #WRITE(RtPtr, $9CF9FC)
 // 0x80548a4
-//<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>ランク <color=gray><linestyle=2><style=purple><linestyle=7>ハイレベル[;
+//[color=0(normal)][linestyle=0(normal)][style=gold][linestyle=5]ランク [color=gray][linestyle=2][style=purple][linestyle=7]ハイレベル[;
 // --- Literal
 //Rank  High Level[;
 // --- Edited
-<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>Rank:          <color=gray><linestyle=2><style=purple><linestyle=7>Superb[;
+[color=0(normal)][linestyle=0(normal)][style=gold][linestyle=5]Rank:          [color=gray][linestyle=2][style=purple][linestyle=7]Superb[;
 #WRITE(RtPtr, $9CF9F8)
 // 0x80548c8
-//<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>ランク <color=gray><linestyle=2><style=purple><linestyle=7>平凡[;
+//[color=0(normal)][linestyle=0(normal)][style=gold][linestyle=5]ランク [color=gray][linestyle=2][style=purple][linestyle=7]平凡[;
 // --- Literal
 //Rank  Average[;
 // --- Edited
-<color=0(normal)><linestyle=0(normal)><style=gold><linestyle=5>Rank:                     <color=gray><linestyle=2><style=purple><linestyle=7>OK[;
+[color=0(normal)][linestyle=0(normal)][style=gold][linestyle=5]Rank:                     [color=gray][linestyle=2][style=purple][linestyle=7]OK[;
 // 0x80548e7
 //[;
 // --- Literal
@@ -11684,8 +11684,8 @@ Today's trip was... pretty much a total wreck.[;
 [;
 #WRITE(RtPtr, $165EC)
 // 0x8054950
-//<color=pink><linestyle=3><linealign=center>ホントに消すの？[l
-//<color=peach><linestyle=1><linesize=large>　　　　　　　はい[l
+//[color=pink][linestyle=3][linealign=center]ホントに消すの？[l
+//[color=peach][linestyle=1][linesize=large]　　　　　　　はい[l
 //　　　　　　　いいえ[;
 // --- Literal
 //[l
@@ -11693,29 +11693,29 @@ Today's trip was... pretty much a total wreck.[;
 //Yes[l
 //No[;
 // --- Edited
-<color=pink><linestyle=3><linealign=center>Erase ALL data?[l
-<color=peach><linestyle=1>　　  　　　　　Erase[l
+[color=pink][linestyle=3][linealign=center]Erase ALL data?[l
+[color=peach][linestyle=1]　　  　　　　　Erase[l
 　　  　　　　　  Cancel[;
 #WRITE(RtPtr, $9CFB18)
 // 0x8054998
-//<color=pink><linestyle=3><linealign=center>データのクリア[l
-//<color=peach><linestyle=1><linesize=large>いままでの記録を全部けして、はじめから[l
+//[color=pink][linestyle=3][linealign=center]データのクリア[l
+//[color=peach][linestyle=1][linesize=large]いままでの記録を全部けして、はじめから[l
 //やりなおします。よく考えてネ！[;
 // --- Literal
 //Data Clear[l
 //This will erase all the records, and you'll have to start over from the beginning.[l
 //Think about it![;
 // --- Edited
-//<color=pink><linestyle=3><linealign=center>Data Clear[l
-//<color=peach><linestyle=1><linesize=large>This will erase all records, and you'll have to start over from the beginning.[l
+//[color=pink][linestyle=3][linealign=center]Data Clear[l
+//[color=peach][linestyle=1][linesize=large]This will erase all records, and you'll have to start over from the beginning.[l
 //Think about it![;
-<color=pink><linestyle=3><linealign=center>Clear Save Data[l
-<linealign=left><color=peach>Erase progress, gifts, drum lessons,[l
-<color=gray>everything<color=peach>! Think about it![;
+[color=pink][linestyle=3][linealign=center]Clear Save Data[l
+[linealign=left][color=peach]Erase progress, gifts, drum lessons,[l
+[color=gray]everything[color=peach]! Think about it![;
 #WRITE(RtPtr, $9CFB14)
 // 0x80549fc
-//<color=pink><linestyle=3><linealign=center>サウンドモード[l
-//<color=peach><linestyle=1><linesize=large>ステレオ　　ヘッドホンならこっち！オススメ！[l
+//[color=pink][linestyle=3][linealign=center]サウンドモード[l
+//[color=peach][linestyle=1][linesize=large]ステレオ　　ヘッドホンならこっち！オススメ！[l
 //モノラル　　本体のスピーカーならこっち。[;
 // --- Literal
 //Sound Mode[l
@@ -11723,10 +11723,10 @@ Today's trip was... pretty much a total wreck.[;
 //Mono   For regular speakers.[;
 // --- Edited
 //[[ the prime symbol ′ is now set to a width of zero. useful for spacing 1px at a time
-<color=pink><linestyle=3><linealign=center>Sound Mode[l
-<linealign=left><linestyle=1><color=0(normal)>Stereo<color=peach>   ′For headphones, Nintendo DS, etc.[l
-<color=0(normal)><linestyle=1>Mono<color=peach>        For GBAs without headphones.[;
-//<color=0(normal)> is blue pink is white peach is black
+[color=pink][linestyle=3][linealign=center]Sound Mode[l
+[linealign=left][linestyle=1][color=0(normal)]Stereo[color=peach]   ′For headphones, Nintendo DS, etc.[l
+[color=0(normal)][linestyle=1]Mono[color=peach]        For GBAs without headphones.[;
+//[color=0(normal)] is blue pink is white peach is black
 #WRITE(RtPtr, $9CFC84)
 // 0x8054a70
 //[;
@@ -11742,7 +11742,7 @@ Today's trip was... pretty much a total wreck.[;
 //(You can see it in the Rhythm Reference Room)[;
 // --- Edited (This is all Perfect Gift text)
 You can read it[l
-in your e-mail. There are still <color=peach>[;
+in your e-mail. There are still [color=peach][;
 #WRITE(RtPtr, $9CFC7C)
 // 0x8054a94
 //（スタジオで　たたけるヨ）[l
@@ -11751,23 +11751,23 @@ in your e-mail. There are still <color=peach>[;
 //(You can play it in the Studio)[;
 // --- Edited
 You can play it[l
-in the studio. There are still <color=peach>[;
+in the studio. There are still [color=peach][;
 #WRITE(RtPtr, $9CFC78)
 // 0x8054ab0
 //（スタジオで　きけるヨ） [l
 //[;
 // --- Literal
 //(You can hear it in the Studio)[;
-// --- Edited<style=bold><size=medium>
+// --- Edited[style=bold][size=medium]
 You can listen to[l
-it in the studio. There are now <color=peach>[;
+it in the studio. There are now [color=peach][;
 #WRITE(RtPtr, $16D00)
 // 0x8054acc
-//<color=peach><linestyle=1><linealign=center><size=small><linesize=small><style=4(normal)><linestyle=8>「[;
+//[color=peach][linestyle=1][linealign=center][size=small][linesize=small][style=4(normal)][linestyle=8]「[;
 // --- Literal
 //You get the “[;
 // --- Edited
-<color=peach><linestyle=1><linealign=center><size=small><linesize=small><style=4(normal)><linestyle=8>“[;
+[color=peach][linestyle=1][linealign=center][size=small][linesize=small][style=4(normal)][linestyle=8]“[;
 #WRITE(RtPtr, $16D04)
 // 0x8054ae0
 //」[;
@@ -11785,37 +11785,37 @@ it in the studio. There are now <color=peach>[;
 [;
 #WRITE(RtPtr, $16D0C)
 // 0x8054aec
-//<color=0(normal)><linestyle=0(normal)>をプレゼント！[l
+//[color=0(normal)][linestyle=0(normal)]をプレゼント！[l
 //[;
 // --- Literal
 //You get ____ as a present![;
 // --- Edited
-<color=0(normal)><linestyle=0(normal)>[lYou've earned a gift! [;
+[color=0(normal)][linestyle=0(normal)][lYou've earned a gift! [;
 #WRITE(RtPtr, $16D14)
 // 0x8054b00
-//プレゼントは　あと　<color=peach><linestyle=1>[;
+//プレゼントは　あと　[color=peach][linestyle=1][;
 // --- Literal
 //There present comes later.[;
 // --- Edited -- 
-//<color=peach><linestyle=1>[;
+//[color=peach][linestyle=1][;
 [;
 #WRITE(RtPtr, $16D18)
 // 0x8054b1c
-//コ<color=0(normal)><linestyle=0(normal)>　あるから、[l
+//コ[color=0(normal)][linestyle=0(normal)]　あるから、[l
 //他のキャンペーンにもチャレンジしてみてネ！[;
 // --- Literal
 //There's (number) more, so try challenging the other campaigns![;
 // --- Edited
-<size=small><color=0(normal)><linestyle=0(normal)><style=4(normal)> gifts[l
+[size=small][color=0(normal)][linestyle=0(normal)][style=4(normal)] gifts[l
 left to get. Keep going![;
 #WRITE(RtPtr, $16D50)
 // 0x8054b5c
-//プレゼントは　これで<color=peach><linestyle=1>オシマイ<color=0(normal)><linestyle=0(normal)>です。[l
+//プレゼントは　これで[color=peach][linestyle=1]オシマイ[color=0(normal)][linestyle=0(normal)]です。[l
 //[;
 // --- Literal
 //This is the end for the presents.[;
 // --- Edited
-0<size=small><color=0(normal)><linestyle=0(normal)><style=4(normal)> gifts left.[l
+0[size=small][color=0(normal)][linestyle=0(normal)][style=4(normal)] gifts left.[l
 You finally got them all![;
 #WRITE(RtPtr, $16D54)
 // 0x8054b88
@@ -12129,43 +12129,43 @@ Responsibility[;
 #WRITE(RtPtr, $9D7FA8)
 // 0x8054f88
 //[l
-//<linesize=large><size=large><linesize=large>鍛えよう[l
-//<linesize=large><size=large><linesize=large>[l
-//<linealign=center><size=large><linesize=large>誰でも持ってる[l
-//<linesize=large><size=large><linesize=large>[l
-//<linealign=right><size=large><linesize=large>リズム感[l
-//<linesize=large><size=large><linesize=large>[l
-//<linesize=large><size=small><linesize=small>「潜在的なリズム感は、訓練によって成長させることが可能。日々の反復練習が最も効果的」[l
+//[linesize=large][size=large][linesize=large]鍛えよう[l
+//[linesize=large][size=large][linesize=large][l
+//[linealign=center][size=large][linesize=large]誰でも持ってる[l
+//[linesize=large][size=large][linesize=large][l
+//[linealign=right][size=large][linesize=large]リズム感[l
+//[linesize=large][size=large][linesize=large][l
+//[linesize=large][size=small][linesize=small]「潜在的なリズム感は、訓練によって成長させることが可能。日々の反復練習が最も効果的」[l
 //[l
-//<linesize=large><size=large><linesize=large>日常の[l
-//<linesize=large><size=large><linesize=large>[l
-//<linealign=center><size=large><linesize=large>動きはこんなに[l
-//<linesize=large><size=large><linesize=large>[l
-//<linealign=right><size=large><linesize=large>リズミカル[l
-//<linesize=large><size=small><linesize=small>「リズム感は日常生活の中で常に感じ、育てると良い。歩き方や歯磨き、料理の時等、リズムを意識して動いてみるべし」[l
+//[linesize=large][size=large][linesize=large]日常の[l
+//[linesize=large][size=large][linesize=large][l
+//[linealign=center][size=large][linesize=large]動きはこんなに[l
+//[linesize=large][size=large][linesize=large][l
+//[linealign=right][size=large][linesize=large]リズミカル[l
+//[linesize=large][size=small][linesize=small]「リズム感は日常生活の中で常に感じ、育てると良い。歩き方や歯磨き、料理の時等、リズムを意識して動いてみるべし」[l
 //[l
-//<linesize=large><size=large><linesize=large>リズム感[l
-//<linesize=large><size=large><linesize=large>[l
-//<linealign=center><size=large><linesize=large>ノリがよければ[l
-//<linesize=large><size=large><linesize=large>[l
-//<linealign=right><size=large><linesize=large>なおクール[l
-//<linesize=large><size=large><linesize=large>[l
-//<linesize=large><size=small><linesize=small>「ただし、リズム感とノリは別モノ。リズムを意識し鍛えながら、同時にノリの良さも身に付けよう」[l
+//[linesize=large][size=large][linesize=large]リズム感[l
+//[linesize=large][size=large][linesize=large][l
+//[linealign=center][size=large][linesize=large]ノリがよければ[l
+//[linesize=large][size=large][linesize=large][l
+//[linealign=right][size=large][linesize=large]なおクール[l
+//[linesize=large][size=large][linesize=large][l
+//[linesize=large][size=small][linesize=small]「ただし、リズム感とノリは別モノ。リズムを意識し鍛えながら、同時にノリの良さも身に付けよう」[l
 //[l
-//<linesize=large><size=large><linesize=large>ブレイクを[l
-//<linesize=large><size=large><linesize=large>[l
-//<linealign=center><size=large><linesize=large>待てないアノ娘は[l
-//<linesize=large><size=large><linesize=large>[l
-//<linealign=right><size=large><linesize=large>ハンパモノ[l
-//<linesize=large><size=small><linesize=small>「ブレイクを正確にカウントすることは難しく、つっこみ気味になりがち。落ち着いて待てるかどうかが、かっこよさを大きく左右する」[l
+//[linesize=large][size=large][linesize=large]ブレイクを[l
+//[linesize=large][size=large][linesize=large][l
+//[linealign=center][size=large][linesize=large]待てないアノ娘は[l
+//[linesize=large][size=large][linesize=large][l
+//[linealign=right][size=large][linesize=large]ハンパモノ[l
+//[linesize=large][size=small][linesize=small]「ブレイクを正確にカウントすることは難しく、つっこみ気味になりがち。落ち着いて待てるかどうかが、かっこよさを大きく左右する」[l
 //[l
-//<linesize=large><size=large><linesize=large>大人でも[l
-//<linesize=large><size=large><linesize=large>[l
-//<linealign=center><size=large><linesize=large>メキメキ伸びる[l
-//<linesize=large><size=large><linesize=large>[l
-//<linealign=right><size=large><linesize=large>リズム感[l
-//<linesize=large><size=large><linesize=large>[l
-//<linesize=large><size=small><linesize=small>「リズムを意識しようとする心がけで、リズム感は成人してからでも格段に良くなってゆく」[l
+//[linesize=large][size=large][linesize=large]大人でも[l
+//[linesize=large][size=large][linesize=large][l
+//[linealign=center][size=large][linesize=large]メキメキ伸びる[l
+//[linesize=large][size=large][linesize=large][l
+//[linealign=right][size=large][linesize=large]リズム感[l
+//[linesize=large][size=large][linesize=large][l
+//[linesize=large][size=small][linesize=small]「リズムを意識しようとする心がけで、リズム感は成人してからでも格段に良くなってゆく」[l
 //[;
 // --- Literal
 //(Translator's note: These are supposed to be Haiku (5-7-5 syllable format), and each one has an explanation of its meaning right after.  This literal English translation, as you can see, does not have yet have 5-7-5 format.  I believe it can be done, though.)[l
@@ -12221,47 +12221,47 @@ Responsibility[;
 //”From simply trying to be conscious of rhythm, rhythm sense will grow exceptionally even in adults.[;
 // --- Edited
 [l
-<linealign=left>Together let's forge[l
-<linealign=center>The skill that everyone has:[l
-<linealign=right>Our sense of rhythm[l
+[linealign=left]Together let's forge[l
+[linealign=center]The skill that everyone has:[l
+[linealign=right]Our sense of rhythm[l
 [l
-<linealign=center><size=small><linesize=small>“It is possible to develop latent[l
+[linealign=center][size=small][linesize=small]“It is possible to develop latent[l
 rhythm sense with practice.[l
 Daily repetition is even more effective.”[l
 [l
 [l
-<linealign=left>Moving and doing[l
-<linealign=center>As I go about my day.[l
-<linealign=right>Is this called rhythm?[l
+[linealign=left]Moving and doing[l
+[linealign=center]As I go about my day.[l
+[linealign=right]Is this called rhythm?[l
 [l
-<linealign=center>“It's good to feel and embrace your rhythm[l
+[linealign=center]“It's good to feel and embrace your rhythm[l
 sense during everyday life.  While walking,[l
 brushing your teeth or cooking you should[l
 move with consciousness of your rhythm.”[l
 [l
-<linealign=left>You have good rhythm,[l
-<linealign=center>But if your flow is better,[l
-<linealign=right>Your rhythm's its best.[l
+[linealign=left]You have good rhythm,[l
+[linealign=center]But if your flow is better,[l
+[linealign=right]Your rhythm's its best.[l
 [l
-<linealign=center>“Rhythm sense and flow are separate[l
+[linealign=center]“Rhythm sense and flow are separate[l
 things. While honing your sense of rhythm,[l
 you should also try to develop good flow."[l
 [l
 [l
-<linealign=left>Let's not be hasty.[l
-<linealign=center>Wait patiently for the rest,[l
-<linealign=right>And don't lose the flow.[l
+[linealign=left]Let's not be hasty.[l
+[linealign=center]Wait patiently for the rest,[l
+[linealign=right]And don't lose the flow.[l
 [l
-<linealign=center>“Counting accurately during a rest is difficult,[l
+[linealign=center]“Counting accurately during a rest is difficult,[l
 and it's tempting to start too soon.  The ability[l
 to stay composed during the rests is[l
 critical to good flow and rhythm.”[l
 [l
-<linealign=left>Even in old age,[l
-<linealign=center>Rhythm sense can sprout and grow.[l
-<linealign=right>Just go with your flow![l
+[linealign=left]Even in old age,[l
+[linealign=center]Rhythm sense can sprout and grow.[l
+[linealign=right]Just go with your flow![l
 [l
-<linealign=center>“Rhythm sense will grow exceptionally[l
+[linealign=center]“Rhythm sense will grow exceptionally[l
 even in adults so long as you try[l
 to be conscious of your rhythm."[l
 [l
@@ -12300,17 +12300,17 @@ rhythm sense[;
 Rhythm Haiku Folio[;
 #WRITE(RtPtr, $9D7F98)
 // 0x8055314
-//<linealign=center><size=medium><linesize=medium>「そだてる」[l
+//[linealign=center][size=medium][linesize=medium]「そだてる」[l
 //[l
-//<linealign=center><size=small><linesize=small>わたしはそれを育てている。[l
+//[linealign=center][size=small][linesize=small]わたしはそれを育てている。[l
 //いつか大きく羽ばたく日のために。[l
 //なにげない日常の生活の中で、[l
 //より、自然に[l
 //より、楽しく。[l
 //今はまだちっぽけな、[l
 //わたしのリズム感を…[l
-//<linealign=center><size=medium><linesize=medium>「Karate Rhythm」[l
-//<linealign=center><size=small><linesize=small>[l
+//[linealign=center][size=medium][linesize=medium]「Karate Rhythm」[l
+//[linealign=center][size=small][linesize=small][l
 //Hey! Baby! How's it going?[l
 //This beat is non stop.[l
 //Hey! Baby! Listen to my phrase.[l
@@ -12363,7 +12363,7 @@ Rhythm Haiku Folio[;
 //Hold onto your ambition.[l
 //Hey! Oh, Yeah![;
 // --- Edited
-<linealign=center>“Nurture”[l
+[linealign=center]“Nurture”[l
 [l
 I nurture it,[l
 For the day it will spread its wings.[l
@@ -12400,8 +12400,8 @@ Hey! Oh, Yeah![;[;
 Rhythm Poem Digest[;
 #WRITE(RtPtr, $9D7F88)
 // 0x8055524
-//<linealign=center><size=medium><linesize=medium>リズム感タイプ診断[l
-//<size=small><linesize=small>[l
+//[linealign=center][size=medium][linesize=medium]リズム感タイプ診断[l
+//[size=small][linesize=small][l
 //あなたのリズム感を診断します。[l
 //当てはまるものを選んでいってネ！[l
 //[l
@@ -12571,28 +12571,28 @@ Rhythm Poem Digest[;
 //[l
 //[l
 //-19-[l
-//<linealign=center>あなたのリズム感タイプ[l
-//<size=medium><linesize=medium>ノリノリ型<size=small><linesize=small>[l
+//[linealign=center]あなたのリズム感タイプ[l
+//[size=medium][linesize=medium]ノリノリ型[size=small][linesize=small][l
 //[l
-//<linesize=large>あなたのリズム感に対する考え方は、とってもナイスです。もし今のリズム感に自信をもてなくても、これからリズムと いっしょに楽しい人生をおくれるでしょう。ノリノリでエンジョイしてネ！[l
+//[linesize=large]あなたのリズム感に対する考え方は、とってもナイスです。もし今のリズム感に自信をもてなくても、これからリズムと いっしょに楽しい人生をおくれるでしょう。ノリノリでエンジョイしてネ！[l
 //[l
-//<linealign=center>-20-[l
-//<linealign=center>あなたのリズム感タイプ[l
-//<size=medium><linesize=medium>てれやさん型<size=small><linesize=small>[l
+//[linealign=center]-20-[l
+//[linealign=center]あなたのリズム感タイプ[l
+//[size=medium][linesize=medium]てれやさん型[size=small][linesize=small][l
 //[l
-//<linesize=large>リズム感ということに対して、すこしビビってませんか？リズム感はみんながもっているものなんです。楽しみながらすこしずつでもリズムを意識すれば、リズム感は成長します。安心してネ。[l
+//[linesize=large]リズム感ということに対して、すこしビビってませんか？リズム感はみんながもっているものなんです。楽しみながらすこしずつでもリズムを意識すれば、リズム感は成長します。安心してネ。[l
 //[l
-//<linealign=center>-21-[l
-//<linealign=center>あなたのリズム感タイプ[l
-//<size=medium><linesize=medium>おちょうし者型<size=small><linesize=small>[l
+//[linealign=center]-21-[l
+//[linealign=center]あなたのリズム感タイプ[l
+//[size=medium][linesize=medium]おちょうし者型[size=small][linesize=small][l
 //[l
-//<linesize=large>リズム感とノリのよさのちがいをもっと意識すると、ベターです。ノリがよくても肝心のリズム感がわるいと、ノリのよさが空回りしてしまってもったいないです。リズム感をしっかりとしたものにしておけば、あなたの元気はみんなをもっとハッピーにするかも！？[l
-//<linealign=center>-22-[l
-//<linealign=center>あなたのリズム感タイプ[l
-//<size=medium><linesize=medium>カッチリ型<size=small><linesize=small>[l
+//[linesize=large]リズム感とノリのよさのちがいをもっと意識すると、ベターです。ノリがよくても肝心のリズム感がわるいと、ノリのよさが空回りしてしまってもったいないです。リズム感をしっかりとしたものにしておけば、あなたの元気はみんなをもっとハッピーにするかも！？[l
+//[linealign=center]-22-[l
+//[linealign=center]あなたのリズム感タイプ[l
+//[size=medium][linesize=medium]カッチリ型[size=small][linesize=small][l
 //[l
-//<linesize=large>あなたはリズム感ということを少しむずかしくとらえすぎかもしれません。もうすこしリズムと気軽につきあって、日常生活にとけこませると自然にリズム感がよくなるのではないでしょうか。そのほうが、きっと楽しいですヨ！[l
-//<linealign=center>-23-[l
+//[linesize=large]あなたはリズム感ということを少しむずかしくとらえすぎかもしれません。もうすこしリズムと気軽につきあって、日常生活にとけこませると自然にリズム感がよくなるのではないでしょうか。そのほうが、きっと楽しいですヨ！[l
+//[linealign=center]-23-[l
 //[;
 // --- Literal
 //[l
@@ -12857,7 +12857,7 @@ Rhythm Poem Digest[;
 //[;
 // --- Edited
 #WRITE(RtPtr, $9D7F88)
-<linealign=center>
+[linealign=center]
 Your Rhythm Sense is really important![l
 What is Rhythm Sense?[l
 [l
@@ -13048,7 +13048,7 @@ False - Go to page 21![l
 [l
 -19-[l
 -20-[l
-<color=gray>Your Rhythm Sense - Groovy[l
+[color=gray]Your Rhythm Sense - Groovy[l
 [l
 You have a good attitude towards rhythm. Even[l
 if you don't have confidence in your Rhythm[l
@@ -13057,7 +13057,7 @@ enjoyable life full of rhythm. Rock on![l
 [l
 -20-[l
 -21-[l
-<color=gray>Your Rhythm Sense - Shy[l
+[color=gray]Your Rhythm Sense - Shy[l
 Isn't your attitude towards rhythm a little[l
 flustered? Rhythm is something that everyone[l
 has. If you become conscious of rhythm little by[l
@@ -13066,7 +13066,7 @@ Rhythm Sense will grow. Relax.[l
 [l
 -21-[l
 -22-[l
-<color=gray>Your Rhythm Sense - Carefree[l
+[color=gray]Your Rhythm Sense - Carefree[l
 You should be aware of the difference[l
 between flow and rhythm. Even if your[l
 flow is good, if your Rhythm Sense is bad,[l
@@ -13075,7 +13075,7 @@ your Rhythm Sense, and your energy and[l
 spirit might make others happier![l
 -22-[l
 -23-[l
-<color=gray>Your Rhythm Type - Strict[l
+[color=gray]Your Rhythm Type - Strict[l
 You might be having some trouble seeing your[l
 Rhythm Sense. Mightn't it improve naturally if[l
 you spend time working with it? Mix rhythm into[l
@@ -13092,27 +13092,27 @@ It would probably be more enjoyable that way.[l
 Rhythm Diagnosis[;
 #WRITE(RtPtr, $9D7F78)
 // 0x80560d0
-//<linealign=center><size=large><linesize=large>[l
+//[linealign=center][size=large][linesize=large][l
 //[l
 //リズム感 ⊃ ノリ[l
 //[l
 //リズム感 ≠ ノリ[l
-//<linesize=large><size=small><linesize=small>[l
+//[linesize=large][size=small][linesize=small][l
 //[l
 //解説：ノリは、リズム感に含まれる要素の１つであり、リズム感そのものではないのだ。[l
-//<linealign=center><size=large><linesize=large>[l
+//[linealign=center][size=large][linesize=large][l
 //[l
 //リズム ≠ リズム感[l
 //[l
 //[l
-//<linesize=large><size=small><linesize=small>[l
+//[linesize=large][size=small][linesize=small][l
 //解説：リズムは時間を刻むもの、リズム感はノリで表現したり、感じたり、自然にかもし出したりするものなのだ。[l
-//<linealign=center><size=medium><linesize=medium>[l
+//[linealign=center][size=medium][linesize=medium][l
 //[l
 //[l
 //グッドなダンサー ≠ ナイスなリズム感[l
 //[l
-//<linesize=large><size=small><linesize=small>[l
+//[linesize=large][size=small][linesize=small][l
 //[l
 //解説：ダンスの上手な人が、「リズム感が良い」とは限らないのだ。[l
 //[;
@@ -13148,39 +13148,39 @@ and Wii Rhythm Heaven games). “Flow" is literally[l
 translated as “groove."[l
 [l
 [l
-<linealign=center><size=medium><linesize=medium>[l
+[linealign=center][size=medium][linesize=medium][l
 [l
 Rhythm Sense ⊃ Flow[l
 [l
 Rhythm Sense ≠ Flow[l
-<linesize=large><size=small><linesize=small>[l
+[linesize=large][size=small][linesize=small][l
 Explanation: Flow is just one[l
 element of Rhythm Sense; Flow[l
 is not Rhythm Sense itself.[l
-<linealign=center><size=medium><linesize=medium>[l
+[linealign=center][size=medium][linesize=medium][l
 [l
 Rhythm ≠ Rhythm Sense[l
 [l
 [l
-<linesize=large><size=small><linesize=small>Explanation: rhythm is the ability to[l
+[linesize=large][size=small][linesize=small]Explanation: rhythm is the ability to[l
 count time, while Rhythm Sense is[l
 what you express, feel, engender, and[l
 naturally create through Flow.[l
 [l
-<linealign=center><size=medium><linesize=medium>[l
+[linealign=center][size=medium][linesize=medium][l
 Good dancer[l
 ≠[l
 Strong Rhythm Sense[l
 [l
 [l
-<linesize=large><size=small><linesize=small>Explanation: A good dancer does not[l
+[linesize=large][size=small][linesize=small]Explanation: A good dancer does not[l
 necessarily have good Rhythm Sense.[;
-<linealign=center><size=medium><linesize=medium>[l
+[linealign=center][size=medium][linesize=medium][l
 [l
 [l
 グッドなダンサー ≠ ナイスなリズム感[l
 [l
-<linesize=large><size=small><linesize=small>[l
+[linesize=large][size=small][linesize=small][l
 [l
 解説：ダンスの上手な人が、「リズム感が良い」とは限らないのだ。[l
 [;[;
@@ -13199,18 +13199,18 @@ The Rhythm Formula[;
 //[l
 //リズム感が良くなっただけなのに…[l
 //[l
-//<size=medium><linesize=medium>こんなにモテて、ホントにいいの！？[l
-//<size=small><linesize=small>[l
+//[size=medium][linesize=medium]こんなにモテて、ホントにいいの！？[l
+//[size=small][linesize=small][l
 //「リズム天国」に出会うまでは、全く女性に縁のなかった私ですが、今ではモテモテで…人生観が変わりました。[l
-//<linealign=right>Tさん ３８才 会社員[l
-//<linesize=large>[l
+//[linealign=right]Tさん ３８才 会社員[l
+//[linesize=large][l
 //リズム感が良くなっただけなのに…[l
 //[l
-//<size=medium><linesize=medium>歌が上手だねって言われちゃった！？[l
-//<size=small><linesize=small>[l
+//[size=medium][linesize=medium]歌が上手だねって言われちゃった！？[l
+//[size=small][linesize=small][l
 //「リズム天国」に出会うまでは、オンチの代表みたいに言われてた私なのに、最近よくホメられるんです。相変わらずオンチなのに不思議。でもうれしい！[l
-//<linealign=right>Hさん ２９才 主婦[l
-//<linesize=large>[;
+//[linealign=right]Hさん ２９才 主婦[l
+//[linesize=large][;
 // --- Literal
 //We have received a lot of happy voices from people who've enjoyed Rhythm Tengoku.  We have received so much (!) mail and email, that we can't introduce all of them, but please allow us to introduce just a tiny bit of them.  Please try try it yourself once, and share the effect with your friends!![l
 //[l
@@ -13584,8 +13584,8 @@ The Ninja Scroll[;
 //遊んでくれてありがとう！」[l
 //[l
 //[l
-//<linealign=right>なぞのリズム組織代表[l
-//<linealign=right>スペースおじさん[;
+//[linealign=right]なぞのリズム組織代表[l
+//[linealign=right]スペースおじさん[;
 // --- Literal
 //A last notification from the Mystery Rhythm Organization has arrived.[l
 //[l
@@ -14027,10 +14027,10 @@ a portable shrine, like the English[l
 [l
 Original lyrics, in latin script:[l
 [l
-Ha～ Hanabi agareba～ [l
-Ha Ah～ Kansei agaru～ [l
-Ha～ Ninki agareba～ [l
-Ha Ah～ Kyuuryou agaru～ [l
+Ha~ Hanabi agareba~ [l
+Ha Ah~ Kansei agaru~ [l
+Ha~ Ninki agareba~ [l
+Ha Ah~ Kyuuryou agaru~ [l
 [l
 [l
 [l
@@ -14039,26 +14039,26 @@ Matsuri da wasshoi! [l
 Nippon juu ga wasshoi! [l
 Sore hikkuri kaette [l
 dondo pa--n pan [l
-Ha～ Bon-Odori [l
+Ha~ Bon-Odori [l
 [l
 [l
 [l
-Ha～ Ame ga agareba～ [l
-Ha Ah～ Yagura ni agaru～ [l
+Ha~ Ame ga agareba~ [l
+Ha Ah~ Yagura ni agaru~ [l
 Hora! Matsuri da wasshoi![l
 Korezo Meido in Japan![l
 Sore hikkuri kaette [l
 dondo pa--n pan [l
-Ha～ Bon-Odori [l
+Ha~ Bon-Odori [l
 [l
 // [literal translation
 [l
 Original lyrics, literal translation:[l
 [l
-Ha～ When the fireworks go up～ [l
-Ha Ah～ The cheers go up～ [l
-Ha～ If popularity goes up～ [l
-Ha Ah～ The salary goes up～ [l
+Ha~ When the fireworks go up~ [l
+Ha Ah~ The cheers go up~ [l
+Ha~ If popularity goes up~ [l
+Ha Ah~ The salary goes up~ [l
 [l
 [l
 [l
@@ -14067,26 +14067,26 @@ It's a festival, wasshoi![l
 All Japan says wasshoi![l
 Yeah, twirl around and[l
 dondo pa--n pan[l
-Ha～ Bon-Odori [l
+Ha~ Bon-Odori [l
 [l
 [l
 [l
-Ha～ When the rain stops[l
-Ha Ah～ We go up to the turret/scaffold[l
+Ha~ When the rain stops[l
+Ha Ah~ We go up to the turret/scaffold[l
 Hey!/Look here! It's a festival, wasshoi![l
 This is it, Made in Japan![l
 Yeah, twirl around and[l
 dondo pa--n pan[l
-Ha～ Bon-Odori [l
+Ha~ Bon-Odori [l
 [l
 //localized lyrics
 [l
 Localized lyrics:[l
 [l
-Ha～ When rockets start to fly～　[l
-Ha Ah～ Cheers will fill the sky～　[l
-Ha～ When the spirits are high～　[l
-Ha Ah～ The more people will buy～　[l
+Ha~ When rockets start to fly~　[l
+Ha Ah~ Cheers will fill the sky~　[l
+Ha~ When the spirits are high~　[l
+Ha Ah~ The more people will buy~　[l
 [l
 [l
 [l
@@ -14095,37 +14095,37 @@ It’s a festival, hooray![l
 All Japan says hooray![l
 Now we turn around and[l
 dondo pa--n pan[l
-Haa～ Bon-Odori [l
+Haa~ Bon-Odori [l
 [l
 [l
 [l
-Ha～ When the rain is dry～　[l
-Ha Ah～ Climb up the turret and spy～ [l
+Ha~ When the rain is dry~　[l
+Ha Ah~ Climb up the turret and spy~ [l
 Oh! It’s a festival, hooray![l
 This is it! It’s made in Japan![l
 Now we turn around and[l
 dondo pa--n pan[l
-Haa～ Bon-Odori [l
+Haa~ Bon-Odori [l
 [;
-//<linealign=center>[l
-//<linealign=left><color=peach>Ha～ Hanabi agareba～ <color=0(normal)>(When the fireworks go up)[l
-//<color=peach>Ha Ah～ Kansei agaru～ <color=0(normal)>(the cheers go up)[l
-//<color=peach>Ha～ Ninki agareba～ <color=0(normal)>(If popularity goes up)[l
-//<color=peach>Ha Ah～ Kyuuryou agaru～ <color=0(normal)>(the salary goes up)[l
-//<color=peach>Matsuri da wasshoi! <color=0(normal)>(It's a festival, wasshoi!)[l
-//<color=peach>Nippon juu ga wasshoi! <color=0(normal)>(All Japan says wasshoi!)[l
-//<color=peach>Sore hikkuri kaette <color=0(normal)>(Yeah, twirl around and)[l
-//<color=peach>don don pan pan[l
-//<color=peach>Ha～ Bon-Odori～<color=0(normal)>[l
-//<color=peach>Ha～ Ame ga agareba～ <color=0(normal)>(When the rain stops)[l
-//<color=peach>Ha Ah～ Yagura ni agaru～[l
-//<color=0(normal)>(I/You/We/They go up to the turret/scaffold)[l
-//<color=peach>Hora! Matsuri da wasshoi![l
-//<color=0(normal)>(Hey!/Look here! It's a festival, wasshoi!)[l
-//<color=peach>Korezo Meido in Japan! <color=0(normal)>(This is it, Made in Japan!)[l
-//<color=peach>Sore hikkuri kaette <color=0(normal)>(Yeah, twirl around and)[l
-//<color=peach>don don pan pan[l
-//<color=peach>Ha～ Bon-Odori<color=0(normal)>[;
+//[linealign=center][l
+//[linealign=left][color=peach]Ha~ Hanabi agareba~ [color=0(normal)](When the fireworks go up)[l
+//[color=peach]Ha Ah~ Kansei agaru~ [color=0(normal)](the cheers go up)[l
+//[color=peach]Ha~ Ninki agareba~ [color=0(normal)](If popularity goes up)[l
+//[color=peach]Ha Ah~ Kyuuryou agaru~ [color=0(normal)](the salary goes up)[l
+//[color=peach]Matsuri da wasshoi! [color=0(normal)](It's a festival, wasshoi!)[l
+//[color=peach]Nippon juu ga wasshoi! [color=0(normal)](All Japan says wasshoi!)[l
+//[color=peach]Sore hikkuri kaette [color=0(normal)](Yeah, twirl around and)[l
+//[color=peach]don don pan pan[l
+//[color=peach]Ha~ Bon-Odori~[color=0(normal)][l
+//[color=peach]Ha~ Ame ga agareba~ [color=0(normal)](When the rain stops)[l
+//[color=peach]Ha Ah~ Yagura ni agaru~[l
+//[color=0(normal)](I/You/We/They go up to the turret/scaffold)[l
+//[color=peach]Hora! Matsuri da wasshoi![l
+//[color=0(normal)](Hey!/Look here! It's a festival, wasshoi!)[l
+//[color=peach]Korezo Meido in Japan! [color=0(normal)](This is it, Made in Japan!)[l
+//[color=peach]Sore hikkuri kaette [color=0(normal)](Yeah, twirl around and)[l
+//[color=peach]don don pan pan[l
+//[color=peach]Ha~ Bon-Odori[color=0(normal)][;
 #WRITE(RtPtr, $9D7F04)
 // 0x8057958
 //歌詞カード■[;
@@ -14158,7 +14158,7 @@ Lyrics: The☆Bon-Odori[;
 //RM「！？ なんでしってんの？」[l
 //DJ「だってリズム天国やってるもーん！ではここでCMでーす」[l
 //CM「ノリ感アップに… リズム天国！買ってネ！」[l
-//<linealign=right>おわり[;
+//[linealign=right]おわり[;
 // --- Literal
 //Hello-! It's DJ SALU (translator's note: saru/salu = monkey; also SALU is the name of the monkeys in Tap Dance)[l
 //[l
@@ -14203,7 +14203,7 @@ Lyrics: The☆Bon-Odori[;
 //CM: Take your Mood Riding up... Rhythm Tengoku! Katte NE! (Buy it!)[l
 //[l
 //[l
-//(Translator's note: I phonetically transcribed some of the Japanese because they are direct quotes or references to phrases in the Rap Wo/Men game.  E.g. “Honto desu ka?” --> “Un!”  “Kare ni wa naisho-!” --> “Un! Un!”)[;
+//(Translator's note: I phonetically transcribed some of the Japanese because they are direct quotes or references to phrases in the Rap Wo/Men game.  E.g. “Honto desu ka?” --] “Un!”  “Kare ni wa naisho-!” --] “Un! Un!”)[;
 // --- Edited
 Hello! this is DJ MAN-K!![l
 We have another fantastic guest today,[l
@@ -14257,7 +14257,7 @@ And now for a commercial break![l
 //
 [l
 [l
-<linealign=center>From our sponsers...[l
+[linealign=center]From our sponsers...[l
 [l
 Raise your mood with a little music...[l
 Rhythm Heaven Silver! Buy it![l
@@ -14308,7 +14308,7 @@ Rap Report[;
 //[l
 //What could have happened to the commander!?[;
 // --- Edited
-<linealign=center>[l
+[linealign=center][l
 [l
 [l
 April 16 - Today I enlisted in the Marcher Corps![l
@@ -14394,9 +14394,9 @@ Marcher's Diary[;
 //(Tans. note: This is done in the mood of a kind of solemn documentary or news report.  The narration that appears every other line is not addressed directly to Mr. F, but indirectly to both him and the audience.)[;
 // --- Edited
 [l
-<linealign=center>The Secret Story Behind the[l
+[linealign=center]The Secret Story Behind the[l
 Development of the Horse Machine[l
-<linealign=left>[l
+[linealign=left][l
 Today we have a special interview with[l
 “Mr. F", the developer of the “Horse Machine”.[l
 The Horse Machine can be played in the[l
@@ -14471,7 +14471,7 @@ Horse Machine's Story[;
 //[l
 //Q. How is the season looking right now?[l
 //[l
-//A. I'm eating nigiri (rice balls--> that black and white triangle thing he hits sometimes instead of baseballs), so it's right on the mark![l
+//A. I'm eating nigiri (rice balls--] that black and white triangle thing he hits sometimes instead of baseballs), so it's right on the mark![l
 //[l
 //[l
 //Q. And your target/objective?[l
@@ -14512,27 +14512,27 @@ Williams.[l
 I'm here live in the void of space for an[l
 exclusive interview! To my right is Mr.[l
 Spaceballer. How are you today?[l
-<color=gray>I'm well. I think I really gave it my all in the last[l
-<color=gray>game.[l
+[color=gray]I'm well. I think I really gave it my all in the last[l
+[color=gray]game.[l
 [l
 //
 [l
 Good to hear. How's the season looking right[l
 now?[l
-<color=gray>I'm eating rice balls, so it's right on the mark![l
+[color=gray]I'm eating rice balls, so it's right on the mark![l
 [l
 And what is your goal in all this?[l
-<color=gray>To not forget the rice balls![l
+[color=gray]To not forget the rice balls![l
 [l
 [l
 //
 [l
 Makes sense to me. Do you have a girlfriend?[l
-<color=gray>Yes, I do. She's right over there. Celeste comes[l
-<color=gray>to all of my practices and games.[l
+[color=gray]Yes, I do. She's right over there. Celeste comes[l
+[color=gray]to all of my practices and games.[l
 [l
 What else does Celeste do for you?[l
-<color=gray>What else? Her cooking specialty is rice balls![l
+[color=gray]What else? Her cooking specialty is rice balls![l
 [l
 [l
 //
@@ -14540,8 +14540,8 @@ What else does Celeste do for you?[l
 [l
 [l
 So it sounds like you two are the perfect match.[l
-<color=gray>Indeed. It may be trite, but we were made for[l
-<color=gray>each other.[l
+[color=gray]Indeed. It may be trite, but we were made for[l
+[color=gray]each other.[l
 [l
 [l
 [l
@@ -14552,17 +14552,17 @@ You're getting homerun after homerun. Then[l
 suddenly, after watching a ball sail into outer[l
 space, I look back, and you're not there.[l
 Why the masks?[l
-<color=gray>What are you talking about?[l
+[color=gray]What are you talking about?[l
 [l
 [l
 //
 [l
 Why do you put on, for example, a rabbit[l
 costume?[l
-<color=gray>I don't know what you're talking about.[l
+[color=gray]I don't know what you're talking about.[l
 [l
 Answer the question![l
-<color=gray>Ah, time is up. Excuse me.[l
+[color=gray]Ah, time is up. Excuse me.[l
 [l
 [l
 //
@@ -14586,15 +14586,15 @@ Inside Spaceball[;
 //さぁ、ここでクイズです！[l
 //その彼は名前は…[l
 //[l
-//<linealign=center><size=medium><linesize=medium>■■■■■[l
-//<linesize=large><size=small><linesize=small>[l
+//[linealign=center][size=medium][linesize=medium]■■■■■[l
+//[linesize=large][size=small][linesize=small][l
 //各番号に入る文字を答えてくださいネ！[l
 //正解すると、次のページの文章を読むことができまーす！！[l
 //[l
 //[l
-//<size=medium><linesize=medium><linealign=center>リズムゲームの「クイズ」のヒミツ[l
-//<size=small><linesize=small><linesize=large>[l
-//あのゲームは、<size=medium><linesize=medium>■■■■<size=small><linesize=small>ーがボタ<size=medium><linesize=medium>■<size=small><linesize=small>をたたくと、たた<size=medium><linesize=medium>■<size=small><linesize=small>た数だけカウントされますよね？実は、ゲームをほっと<size=medium><linesize=medium>■<size=small><linesize=small>て、ボタ<size=medium><linesize=medium>■<size=small><linesize=small>をたたきまくると、た<size=medium><linesize=medium>■<size=small><linesize=small>へ<size=medium><linesize=medium>■<size=small><linesize=small>なことがおきる<size=medium><linesize=medium>■<size=small><linesize=small>です。と<size=medium><linesize=medium>■<size=small><linesize=small>っても、まぁ、あまり期待しな<size=medium><linesize=medium>■<size=small><linesize=small>でネ■！[;
+//[size=medium][linesize=medium][linealign=center]リズムゲームの「クイズ」のヒミツ[l
+//[size=small][linesize=small][linesize=large][l
+//あのゲームは、[size=medium][linesize=medium]■■■■[size=small][linesize=small]ーがボタ[size=medium][linesize=medium]■[size=small][linesize=small]をたたくと、たた[size=medium][linesize=medium]■[size=small][linesize=small]た数だけカウントされますよね？実は、ゲームをほっと[size=medium][linesize=medium]■[size=small][linesize=small]て、ボタ[size=medium][linesize=medium]■[size=small][linesize=small]をたたきまくると、た[size=medium][linesize=medium]■[size=small][linesize=small]へ[size=medium][linesize=medium]■[size=small][linesize=small]なことがおきる[size=medium][linesize=medium]■[size=small][linesize=small]です。と[size=medium][linesize=medium]■[size=small][linesize=small]っても、まぁ、あまり期待しな[size=medium][linesize=medium]■[size=small][linesize=small]でネ■！[;
 // --- Literal
 //[l
 //He who performs in Night Walk, it appears that he really loves music.  It seems that he has done other music-related before, and it's through that connection that he appears in this game.  Recently, I by chance ran into him on the street, and when I tried to talk to him, he just said “I love music!” and disappeared up some stairs.  I slightly thought, “wouldn't it be really great to meet again him who loves music that much?”  Speaking of him, I wonder what his name is?[l
@@ -14648,8 +14648,8 @@ So, here we have the Night Walk quiz![l
 [l
 The music loving fellow is named...[l
 [l
-<linealign=center><size=medium><linesize=medium>(1)(2)(3)(4)(5)(6)(7)[l
-<linesize=large><size=small><linesize=small>[l
+[linealign=center][size=medium][linesize=medium](1)(2)(3)(4)(5)(6)(7)[l
+[linesize=large][size=small][linesize=small][l
 [l
 //
 [l
@@ -14662,7 +14662,7 @@ on the next page![l
 [l
 [l
 //
-<linealign=center>The Secret of the “Quiz Show” game[l
+[linealign=center]The Secret of the “Quiz Show” game[l
 [l
 You know how the (1)layer in Quiz has to push[l
 the button the right number of times to wi(7)?[l
@@ -14731,12 +14731,12 @@ a “manager." Thanks to the regulars, the[l
 business is about tolerable. Ah, right, I get[l
 ahead of myself. I'm a dog.[l
 [l
-<linealign=center>...[l
+[linealign=center]...[l
 [l
 [l
 [l
 [l
-<linealign=left>But being a dog doesn't mean I can't own a[l
+[linealign=left]But being a dog doesn't mean I can't own a[l
 cafe. In fact, people say that my doggedness[l
 is what keeps this little shop open. I also hear[l
 that many of my customers really like music.[l
@@ -14928,13 +14928,13 @@ cares about. Enjoy![l
 [l
 - Rhythm Heaven Silver team[l
 //New format
-<color=0(normal)>twitter.com/rh0updates[l
-<color=0(normal)>Github: RhythmHeavenENPatch[l
-<color=gray>Beta 13a: 2019-04-20[;
+[color=0(normal)]twitter.com/rh0updates[l
+[color=0(normal)]Github: RhythmHeavenENPatch[l
+[color=gray]Beta 13a: 2019-04-20[;
 //for Betas
-//Twitter.com/rh0updates      <color=gray>Beta 9b: 2013-09-06[;
+//Twitter.com/rh0updates      [color=gray]Beta 9b: 2013-09-06[;
 //for Demos
-//Twitter.com/rh0updates             <color=gray>Demo 9 - 06/21/13[;
+//Twitter.com/rh0updates             [color=gray]Demo 9 - 06/21/13[;
 #WRITE(RtPtr, $9D7E74)
 // 0x8058ee8
 //リズム天国へようこそ！[;
@@ -14944,7 +14944,7 @@ cares about. Enjoy![l
 Rhythm Heaven Welcome[;
 #WRITE(RtPtr, $9D7FEC)
 // 0x8058f30
-//<linealign=center><size=large><linesize=large>[l
+//[linealign=center][size=large][linesize=large][l
 //[l
 //[l
 //[l
@@ -14955,34 +14955,34 @@ Rhythm Heaven Welcome[;
 //[l
 //Invalid Data[;
 // --- Edited [[
-<linealign=center><size=large><linesize=large>[l
+[linealign=center][size=large][linesize=large][l
 [l
 [l
 [l
 Invalid Data[;
 #WRITE(RtPtr, $9D7FE8)
 // 0x8058f48
-//<color=pink><linestyle=3><linealign=center>エラー[;
+//[color=pink][linestyle=3][linealign=center]エラー[;
 // --- Literal
 //Error[;
 // --- Edited
-<color=pink><linestyle=3><linealign=center>Error[;
+[color=pink][linestyle=3][linealign=center]Error[;
 #WRITE(RtPtr, $1AFCC)
 // 0x8058f58
-//<04 31 34>.[;
+//<04 31 34].[;
 // --- Literal
 //[;
 // --- Edited (Studio spacing, somehow.)
 // [[u This has to affect stuff outside of the studio, right? Messing with it too much crashes the emulator upon startup. If something's going wrong, this is a place to look. - W hat
-//<043134>[;
-//[;[;[;<$04>14.             [;[;[;[;
+//<043134][;
+//[;[;[;<$04]14.             [;[;[;[;
 //The one below this line works. It's just a little close to the check marks.
 //    [;
 <$04>14.[;
 //One below this line makes the studio listing the "wide" / "fullwidth" font. Weeeeird. "$04" makes the font bold.
-//<$03><$31><$34>[;
-//<$04>14.       [;[;[;[;
-//<linestyle=6>____[;
+//<$03]<$31]<$34][;
+//<$04]14.       [;[;[;[;
+//[linestyle=6]____[;
 // Below this are the track titles for the studio.
 #WRITE(RtPtr, $9D83C4)
 // 0x8058f60
@@ -16557,12 +16557,12 @@ Measuring[;
 Measuring finished! Okay, the result is...[;
 #WRITE(RtPtr, $9E5C7C)
 // 0x805a6e8
-//<size=medium><linesize=medium><style=bold><linestyle=4>Drum Samurai's[l
-//<size=medium><linesize=medium><style=bold><linestyle=4><linealign=right>Band LIVE! [l
+//[size=medium][linesize=medium][style=bold][linestyle=4]Drum Samurai's[l
+//[size=medium][linesize=medium][style=bold][linestyle=4][linealign=right]Band LIVE! [l
 //[l
-//<size=small><linesize=small><style=gold><linestyle=5><linesize=large>　　　　　　　　　　♪　コスモダンス[l
-//<size=small><linesize=small><style=gold><linestyle=5>　　　　　　　　　　♪　バリバリ三人衆[l
-//<size=small><linesize=small><style=gold><linestyle=5>　　　　　　　　　　♪　スーパータップ[l
+//[size=small][linesize=small][style=gold][linestyle=5][linesize=large]　　　　　　　　　　♪　コスモダンス[l
+//[size=small][linesize=small][style=gold][linestyle=5]　　　　　　　　　　♪　バリバリ三人衆[l
+//[size=small][linesize=small][style=gold][linestyle=5]　　　　　　　　　　♪　スーパータップ[l
 //[l
 //[;
 // --- Literal
@@ -16575,18 +16575,18 @@ Measuring finished! Okay, the result is...[;
 //[l
 //　　　　　　　　　　♪　Super Tap[;
 // --- Edited
-<size=medium><linesize=medium><style=bold><linestyle=4>Drum Samurai's[l
-        <size=medium><linesize=medium><style=bold><linestyle=4>Band LIVE! [l
-<size=small><linesize=small><style=gold><linestyle=5><linesize=large>　　　　　　　　　　♪ Cosmic Dance　　　　　　　　　　[l
-<size=small><linesize=small><style=gold><linestyle=5>          ♪ The Snappy Trio　　　　　　　　　　[l
-<size=small><linesize=small><style=gold><linestyle=5>          ♪ Turbo Tap Trial　　　　　　　　　　[;
+[size=medium][linesize=medium][style=bold][linestyle=4]Drum Samurai's[l
+        [size=medium][linesize=medium][style=bold][linestyle=4]Band LIVE! [l
+[size=small][linesize=small][style=gold][linestyle=5][linesize=large]　　　　　　　　　　♪ Cosmic Dance　　　　　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]          ♪ The Snappy Trio　　　　　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]          ♪ Turbo Tap Trial　　　　　　　　　　[;
 #WRITE(RtPtr, $9E5C78)
 // 0x805a7a8
-//<size=medium><linesize=medium><style=bold><linestyle=4>Drum Boys LIVE![l
+//[size=medium][linesize=medium][style=bold][linestyle=4]Drum Boys LIVE![l
 //[l
-//<size=small><linesize=small><style=gold><linestyle=5>　　　　♪　パチパチ三人衆[l
-//<size=small><linesize=small><style=gold><linestyle=5>　　　　♪　タップダンズ[l
-//<size=small><linesize=small><style=gold><linestyle=5>　　　　♪　WISH 君を待てなくて[l
+//[size=small][linesize=small][style=gold][linestyle=5]　　　　♪　パチパチ三人衆[l
+//[size=small][linesize=small][style=gold][linestyle=5]　　　　♪　タップダンズ[l
+//[size=small][linesize=small][style=gold][linestyle=5]　　　　♪　WISH 君を待てなくて[l
 //[l
 //[;
 // --- Literal
@@ -16598,20 +16598,20 @@ Measuring finished! Okay, the result is...[;
 //[l
 //　　　　♪　WISH - Couldn't Wait for You[;
 // --- Edited
-<size=medium><linesize=medium><style=bold><linestyle=4>Drum Boys LIVE!  [l
+[size=medium][linesize=medium][style=bold][linestyle=4]Drum Boys LIVE!  [l
 [l
-<size=small><linesize=small><style=gold><linestyle=5>　　　　♪　The Clappy Trio　　　　　　[l
-<size=small><linesize=small><style=gold><linestyle=5>　　　　♪　Tap Trial　　　　　　[l
-<size=small><linesize=small><style=gold><linestyle=5>　　　　♪　WISH Couldn't Wait for You　　　　　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]　　　　♪　The Clappy Trio　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]　　　　♪　Tap Trial　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]　　　　♪　WISH Couldn't Wait for You　　　　　　　　　　[l
 [l
 [;
 #WRITE(RtPtr, $9E5C74)
 // 0x805a830
-//<size=medium><linesize=medium><style=bold><linestyle=4>Drum Girls LIVE!  [l
+//[size=medium][linesize=medium][style=bold][linestyle=4]Drum Girls LIVE!  [l
 //[l
-//<size=small><linesize=small><style=gold><linestyle=5>♪　ナイトウォーク[l
-//<size=small><linesize=small><style=gold><linestyle=5>♪　スペースダンス[l
-//<size=small><linesize=small><style=gold><linestyle=5>♪　恋のハニースイ■トエンジェル[l
+//[size=small][linesize=small][style=gold][linestyle=5]♪　ナイトウォーク[l
+//[size=small][linesize=small][style=gold][linestyle=5]♪　スペースダンス[l
+//[size=small][linesize=small][style=gold][linestyle=5]♪　恋のハニースイ■トエンジェル[l
 //[l
 //[;
 // --- Literal
@@ -16623,11 +16623,11 @@ Measuring finished! Okay, the result is...[;
 //[l
 //♪　Love's Honey Sweet Angel[;
 // --- Edited
-<size=medium><linesize=medium><style=bold><linestyle=4>Drum Girls LIVE!  [l
+[size=medium][linesize=medium][style=bold][linestyle=4]Drum Girls LIVE!  [l
 [l
-<size=small><linesize=small><style=gold><linestyle=5>♪　Night Walk　　　　　　　　[l
-<size=small><linesize=small><style=gold><linestyle=5>♪　Space Dance　　　　　　　　[l
-<size=small><linesize=small><style=gold><linestyle=5>♪　Honey Sweet Angel of Love　　　　　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]♪　Night Walk　　　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]♪　Space Dance　　　　　　　　[l
+[size=small][linesize=small][style=gold][linestyle=5]♪　Honey Sweet Angel of Love　　　　　　　　　　[l
 [l
 [;
 // 0x805a8ae
@@ -18184,14 +18184,14 @@ The result...?[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Staff Credits[;
+[color=pink]Staff Credits[;
 #WRITE(RtPtr, $A5DF8C)
 // 0x8069a58
 //PRODUCERS[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Producers[;
+[color=pink]Producers[;
 #WRITE(RtPtr, $A5DFC8)
 #WRITE(RtPtr, $A5E964)
 // 0x8069a64
@@ -18214,7 +18214,7 @@ Yoshio Sakamoto[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Supervisors[;
+[color=pink]Supervisors[;
 #WRITE(RtPtr, $A5E088)
 #WRITE(RtPtr, $A5E43C)
 // 0x8069a88
@@ -18244,7 +18244,7 @@ Nobuyasu Umemoto[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Chief Director[;
+[color=pink]Chief Director[;
 #WRITE(RtPtr, $A5E184)
 #WRITE(RtPtr, $A5E220)
 #WRITE(RtPtr, $A5E514)
@@ -18261,7 +18261,7 @@ Kazuyoshi Osawa[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Game Design[;
+[color=pink]Game Design[;
 #WRITE(RtPtr, $A5E25C)
 #WRITE(RtPtr, $A5E694)
 #WRITE(RtPtr, $A5EDE4)
@@ -18330,28 +18330,28 @@ Masahiro Kawano[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Director of Programming[;
+[color=pink]Director of Programming[;
 #WRITE(RtPtr, $A5E55C)
 // 0x8069b2c
 //PROGRAMMING[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Programming[;
+[color=pink]Programming[;
 #WRITE(RtPtr, $A5E658)
 // 0x8069b38
 //DESIGN DIRECTOR[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Design Director[;
+[color=pink]Design Director[;
 #WRITE(RtPtr, $A5E6F4)
 // 0x8069b48
 //DESIGN[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Design[;
+[color=pink]Design[;
 #WRITE(RtPtr, $A5E7E4)
 #WRITE(RtPtr, $A5EE20)
 // 0x8069b50
@@ -18366,7 +18366,7 @@ Fumiko Miyamoto[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Sound Directors[;
+[color=pink]Sound Directors[;
 #WRITE(RtPtr, $A5E8A4)
 // 0x8069b6c
 //H.OGURO[;
@@ -18387,14 +18387,14 @@ Koji Kamada[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Music[;
+[color=pink]Music[;
 #WRITE(RtPtr, $A5E9E8)
 // 0x8069b88
 //MUSIC ARRANGEMENT[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Music Arrangement[;
+[color=pink]Music Arrangement[;
 #WRITE(RtPtr, $A5EA24)
 // 0x8069b9c
 //K.YUASA[;
@@ -18430,7 +18430,7 @@ Daisuke Shiiba[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Sound Effects[;
+[color=pink]Sound Effects[;
 #WRITE(RtPtr, $A5EBB0)
 #WRITE(RtPtr, $A5EDA8)
 // 0x8069bd4
@@ -18445,7 +18445,7 @@ Takaya Fujii[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Songs By[;
+[color=pink]Songs By[;
 #WRITE(RtPtr, $A5ECAC)
 // 0x8069be4
 //時東　ぁみ[;
@@ -18466,7 +18466,7 @@ Tanaka Soushi[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Voice Acting[;
+[color=pink]Voice Acting[;
 #WRITE(RtPtr, $A5EE98)
 // 0x8069c04
 //N.KITAMURA[;
@@ -18487,7 +18487,7 @@ M. Nomura[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Debug[;
+[color=pink]Debug[;
 #WRITE(RtPtr, $A5EF70)
 // 0x8069c24
 //Y.ADACHI[;
@@ -18621,7 +18621,7 @@ Yoshikazu Yamashita[;
 // --- Literal
 //[;
 // --- Edited
-<color=pink>Special Thanks[;
+[color=pink]Special Thanks[;
 #WRITE(RtPtr, $A5F408)
 // 0x8069cfc
 //Y.KURATSUNE[;
@@ -18706,7 +18706,7 @@ You[;
 //[;
 // --- Edited
 //EXECUTIVE[;
-//<color=pink>Executive Producers[;
+//[color=pink]Executive Producers[;
 [;
 #WRITE(RtPtr, $A5F6E4)
 // 0x8069d88
@@ -18717,7 +18717,7 @@ You[;
 //      PRODUCERS[;
 //Satoru Iwata & S. Terai[;
 //Satoru Iwata[;
-<color=pink>Executive Producers[;
+[color=pink]Executive Producers[;
 #WRITE(RtPtr, $A5F720)
 // 0x8069d98
 //S.IWATA[;
@@ -18725,7 +18725,7 @@ You[;
 //[;
 // --- Edited
 //Satoru Iwata[;
-//<color=pink>Localization: <color=0(normal)>W hat, SirNiko[;
+//[color=pink]Localization: [color=0(normal)]W hat, SirNiko[;
 Satoru Iwata[;
 #WRITE(RtPtr, $A5F75C)
 // 0x8069da0
@@ -18734,7 +18734,7 @@ Satoru Iwata[;
 //[;
 // --- Edited ]]unknown first name
 //_S. Terai[;
-//<color=peach>See 1st email for full credits[;
+//[color=peach]See 1st email for full credits[;
 S. Terai[;
 // 0x8069dab
 //[;
@@ -18749,7 +18749,7 @@ S. Terai[;
 //[;
 // --- Edited
 (C) 2006 Nintendo / J.P. ROOM[;
-//<color=peach>\\ <color=0(normal)>English Hack 2013[;
+//[color=peach]\\ [color=0(normal)]English Hack 2013[;
 #WRITE(RtPtr, $A5F9E4)
 // 0x8069dc8
 //[l
@@ -18870,7 +18870,7 @@ if they're already[l
 making a sequel...[;
 #WRITE(RtPtr, $A602FC)
 // 0x8069fe4
-//<linealign=center>ま、それはさておき。[l
+//[linealign=center]ま、それはさておき。[l
 //[l
 //では、どうぞ■！[;
 // --- Literal [google translate
