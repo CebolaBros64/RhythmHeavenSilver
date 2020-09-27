@@ -3,7 +3,7 @@
 :compile
 del "ROM\rh-atlus.gba"
 copy "ROM\rh-jpn.gba" "ROM\rh-atlus.gba"
-Compile\atlas.exe "ROM\rh-atlus.gba" "EN_SourceCode\script.txt"
+perl "Compile\abcde_v0_0_8\abcde.pl" -cm abcde::Atlas "ROM\rh-atlus.gba" "EN_SourceCode\script.txt"
 
 Compile\DSDecmp.exe -c lz10 EN_SourceCode/Graphics/TitleScreen/CD7948_titlescreen_oam_tiles.bin EN_SourceCode/Graphics/TitleScreen/CD7948_titlescreen_oam_tiles
 Compile\DSDecmp.exe -c lz10 EN_SourceCode/Graphics/Rhythm_Games/Karate_Man/Game/BE0480_karateman1_oam_tiles.bin EN_SourceCode/Graphics/Rhythm_Games/Karate_Man/Game/BE0480_karateman1_oam_tiles
