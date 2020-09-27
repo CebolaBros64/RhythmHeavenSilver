@@ -4,10 +4,10 @@
 _skipwarningscreen equ 0
 _skiprhythmtest equ 0
 _debug equ 0
-_debugmenu equ 1
-_nocashmessages equ 1
-_luaconsolemessages equ 1
-_spriteluaconsolemessages equ 1
+_debugmenu equ 0
+_nocashmessages equ 0
+_luaconsolemessages equ 0
+_spriteluaconsolemessages equ 0
 
 .include Compile/ASM/relocate.asm
 
