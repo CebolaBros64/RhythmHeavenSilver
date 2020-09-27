@@ -12,7 +12,7 @@
 // Dirtie, S3v3nx3, BRPXQZME, Iq 132, 4ppleseed, Samutz, DarthNemesis, pelrun, Shaffy, Tickflow
 //
 #VAR(tbl, TABLE)
-#ADDTBL("EN_SourceCode/sjis_2.tbl", tbl)
+#ADDTBL("PT-BR_SourceCode/sjis_2.tbl", tbl)
 #ACTIVETBL(tbl)
 //
 // Pointers for GBA are linear 32bit starting at $8000000
@@ -30,14 +30,14 @@
 //[l
 //Notification from the Rhythm Reference Room[;
 // --- Edited
-Notification from the Rhythm Reference Room[;
+[;
 #WRITE(RtPtr, $1067C)
 // 0x804f3a0
 //　　　　　　　　　　　　　　　　　　　　を入荷しました。[;
 // --- Literal
 //                                             You have received _______ [;
 // --- Edited
-                                             You have received _______[;
+[;
 #WRITE(RtPtr, $10680)
 // 0x804f3dc
 //「　[;
@@ -45,7 +45,7 @@ Notification from the Rhythm Reference Room[;
 //[l
 //“[;
 // --- Edited
-“[;
+[;
 #WRITE(RtPtr, $10684)
 // 0x804f3e4
 //　」[;
@@ -53,7 +53,7 @@ Notification from the Rhythm Reference Room[;
 //[l
 //”[;
 // --- Edited
-”[;
+[;
 //Lines 55 - 1385 were Cafe. Engrish and unformatted text gets confusing.
 //start cafe
 
@@ -4634,14 +4634,14 @@ Cafe[;
 // --- Literal
 //Karate-ist[;
 // --- Edited (This is the name of the game when you highlight it in the level select -Niko)
-Karate Man[;
+Carateca[;
 #WRITE(RtPtr, $9DDEAC)
 // 0x805988c
 //カラテカ[;
 // --- Literal
 //Karate Master[;
 // --- Edited [[(I don't know where this name appears -Niko)
-[bKarate Man[;
+[bCarateca[;
 #WRITE(RtPtr, $9CE34C)
 // 0x80544dc
 //とんでくるモノを[l
@@ -4652,7 +4652,7 @@ Karate Man[;
 //Punch the incoming objects with button A![l
 //It's a common game... right?[;
 // --- Edited//ing//nse...
-This is karate[l
+punho pe[l
 training at its most[l
 intense! (Or, at its[l
 most unorthodox...)[;
@@ -4751,8 +4751,8 @@ help too.[;
 // --- Literal
 //Don't forget to get into it![;
 // --- Edited
-Don't forget to[l
-get into it![;
+Deixe o seu ritmo[l
+fluir...[;
 #WRITE(RtPtr, $9EEF08)
 // 0x805abdc
 //師匠のおことば[;
@@ -4821,7 +4821,7 @@ There's always tomorrow.[;
 // --- Literal
 //Rhythm Hair Removal[;
 // --- Edited
-Rhythm Tweezers[;
+Ritmo cabeludo[;
 #WRITE(RtPtr, $9CE44C)
 // 0x8053f64
 //どんどん生えてくる[l
@@ -5178,7 +5178,7 @@ I hope this makes it up to you.[;
 // --- Literal
 //Clap Clap Trio[;
 // --- Edited
-The Clappy Trio[;
+O Trio Aplauso[;
 #WRITE(RtPtr, $9CE38C)
 // 0x8054398
 //順番に拍手をするヨ！[l
@@ -5491,7 +5491,7 @@ That was great! Really great![;
 // --- Literal
 //White Ghost[;
 // --- Edited
-Sneaky Spirits[;
+Fantasmas dispersos[;
 #WRITE(RtPtr, $9CE52C)
 // 0x8053a8c
 //白いヤツが こちらを[l
@@ -7786,7 +7786,7 @@ Try harder next time.[;
 // --- Literal
 //Rhythm Penmanship/Calligraphy[;
 // --- Edited
-Power Calligraphy[;
+Caligrafia[;
 #WRITE(RtPtr, $9CE6AC)
 //Write Japanese with the brush.[l
 //You only do the tasty (fun) parts.[;
@@ -15207,7 +15207,7 @@ Wizard's Waltz[;
 // --- Literal
 //Super Tap[;
 // --- Edited
-Sapateado simiesco 2[;
+Turbo Tap Trial[;
 #WRITE(RtPtr, $9D8244)
 // 0x8059134
 //バリバリ三人衆[;
