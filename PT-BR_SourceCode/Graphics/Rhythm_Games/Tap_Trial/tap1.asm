@@ -2,17 +2,17 @@
 .dw c26340_tap1_intro2 |0x80000000
 ;title
 .org 0x088B77B8
-.import EN_SourceCode/Graphics/Rhythm_Games/Tap_Trial/8B77B8_assembly0.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Tap_Trial/8B77B8_assembly0.bin
 .org 0x088B77CC
-.import EN_SourceCode/Graphics/Rhythm_Games/Tap_Trial/8B77CC_assembly1.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Tap_Trial/8B77CC_assembly1.bin
 .org 0x088B77E0
-.import EN_SourceCode/Graphics/Rhythm_Games/Tap_Trial/8B77E0_assembly2.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Tap_Trial/8B77E0_assembly2.bin
 .org 0x088B77F4
-.import EN_SourceCode/Graphics/Rhythm_Games/Tap_Trial/8B77F4_assembly3.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Tap_Trial/8B77F4_assembly3.bin
 .org 0x088B7808
-.import EN_SourceCode/Graphics/Rhythm_Games/Tap_Trial/8B7808_assembly4.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Tap_Trial/8B7808_assembly4.bin
 .org 0x088B781C
-.import EN_SourceCode/Graphics/Rhythm_Games/Tap_Trial/8B781C_assembly5.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Tap_Trial/8B781C_assembly5.bin
 .org 0x088B797C
 .dw X8B7830_assembly6
 .org 0x088B7984

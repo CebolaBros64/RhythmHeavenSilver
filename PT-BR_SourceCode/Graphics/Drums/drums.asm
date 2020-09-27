@@ -12,16 +12,16 @@
 .dh cc6ccc_drums_menu1_rleend-cc6ccc_drums_menu1_rle
 //Yes
 .org 0x088C53FC
-.import EN_SourceCode/Graphics/Drums/8C53FC_assembly0.bin
+.import PT-BR_SourceCode/Graphics/Drums/8C53FC_assembly0.bin
 .org 0x088C5422
-.import EN_SourceCode/Graphics/Drums/8C5422_assembly1.bin
+.import PT-BR_SourceCode/Graphics/Drums/8C5422_assembly1.bin
 .org 0x088C5448
-.import EN_SourceCode/Graphics/Drums/8C5448_assembly2.bin
+.import PT-BR_SourceCode/Graphics/Drums/8C5448_assembly2.bin
 //No
 .org 0x088C546E
-.import EN_SourceCode/Graphics/Drums/8C546E_assembly0.bin
+.import PT-BR_SourceCode/Graphics/Drums/8C546E_assembly0.bin
 .org 0x088C5494
-.import EN_SourceCode/Graphics/Drums/8C5494_assembly1.bin
+.import PT-BR_SourceCode/Graphics/Drums/8C5494_assembly1.bin
 .org 0x088C54BA
-.import EN_SourceCode/Graphics/Drums/8C54BA_assembly2.bin
+.import PT-BR_SourceCode/Graphics/Drums/8C54BA_assembly2.bin
 ;eof

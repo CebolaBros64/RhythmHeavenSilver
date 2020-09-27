@@ -4,9 +4,9 @@
 .dw c6c658_marcher1_tile2 |0x80000000
 //Title Edits
 .org 0x088B0800
-.import EN_SourceCode/Graphics/Rhythm_Games/Marching_Orders/8B0800_assembly0.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Marching_Orders/8B0800_assembly0.bin
 .org 0x088B0808
-.import EN_SourceCode/Graphics/Rhythm_Games/Marching_Orders/8B0808_assembly1.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Marching_Orders/8B0808_assembly1.bin
 .org 0x088B09C4
 .dw X8B081C_assembly2
 .org 0x088B09CC

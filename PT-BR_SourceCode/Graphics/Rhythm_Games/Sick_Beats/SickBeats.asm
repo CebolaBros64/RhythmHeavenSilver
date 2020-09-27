@@ -2,25 +2,25 @@
 .dw c31e6c_SickBeats_intro2 |0x80000000
 ;title
 .org 0x088B898C
-.import EN_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B898C_assembly0.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B898C_assembly0.bin
 .org 0x088B8B7A
-.import EN_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8B7A_assembly1.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8B7A_assembly1.bin
 .org 0x088B8B82
-.import EN_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8B82_assembly2.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8B82_assembly2.bin
 .org 0x088B8B90
-.import EN_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8B90_assembly3.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8B90_assembly3.bin
 .org 0x088B8BA4
-.import EN_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8BA4_assembly4.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8BA4_assembly4.bin
 .org 0x088B8BBE
-.import EN_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8BBE_assembly5.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8BBE_assembly5.bin
 .org 0x088B8BD8
-.import EN_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8BD8_assembly6.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8BD8_assembly6.bin
 .org 0x088B8BF8
-.import EN_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8BF8_assembly7.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8BF8_assembly7.bin
 .org 0x088B8C24
-.import EN_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8C24_assembly8.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8C24_assembly8.bin
 .org 0x088B8C56
-.import EN_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8C56_assembly9.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8C56_assembly9.bin
 .org 0x088B8C88
-.import EN_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8C88_assembly10.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sick_Beats/8B8C88_assembly10.bin
 ;eof

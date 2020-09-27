@@ -13,11 +13,11 @@
 .dw X90041C_assembly0
 //Dr Bacteria
 .org 0x089003FC
-.import EN_SourceCode/Graphics/EndlessMenu/9003FC_assembly0.bin
+.import PT-BR_SourceCode/Graphics/EndlessMenu/9003FC_assembly0.bin
 //Head Spinner
 .org 0x089003DC
-.import EN_SourceCode/Graphics/EndlessMenu/9003DC_assembly0.bin
+.import PT-BR_SourceCode/Graphics/EndlessMenu/9003DC_assembly0.bin
 //Quiz
 .org 0x08900424
-.import EN_SourceCode/Graphics/EndlessMenu/900424_assembly0.bin
+.import PT-BR_SourceCode/Graphics/EndlessMenu/900424_assembly0.bin
 ;eof

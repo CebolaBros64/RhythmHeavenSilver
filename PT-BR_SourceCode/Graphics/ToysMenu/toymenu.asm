@@ -10,5 +10,5 @@
 .dh cd931c_toys_screen_map_rleend-cd931c_toys_screen_map_rle
 //Not enough medals
 .org 0x0890DA78
-.import EN_SourceCode/Graphics/ToysMenu/90DA78_assembly0.bin
+.import PT-BR_SourceCode/Graphics/ToysMenu/90DA78_assembly0.bin
 ;eof

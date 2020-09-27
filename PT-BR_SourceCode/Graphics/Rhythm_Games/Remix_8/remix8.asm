@@ -6,17 +6,17 @@
 .dw c5badc_remix8_tile2 |0x80000000
 ;title
 .org 0x088B3004
-.import EN_SourceCode/Graphics/Rhythm_Games/Remix_8/8B3004_assembly0.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Remix_8/8B3004_assembly0.bin
 .org 0x088B300C
-.import EN_SourceCode/Graphics/Rhythm_Games/Remix_8/8B300C_assembly1.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Remix_8/8B300C_assembly1.bin
 .org 0x088B3032
-.import EN_SourceCode/Graphics/Rhythm_Games/Remix_8/8B3032_assembly2.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Remix_8/8B3032_assembly2.bin
 .org 0x088B3082
-.import EN_SourceCode/Graphics/Rhythm_Games/Remix_8/8B3082_assembly3.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Remix_8/8B3082_assembly3.bin
 .org 0x088B30F0
-.import EN_SourceCode/Graphics/Rhythm_Games/Remix_8/8B30F0_assembly4.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Remix_8/8B30F0_assembly4.bin
 .org 0x088B3182
-.import EN_SourceCode/Graphics/Rhythm_Games/Remix_8/8B3182_assembly5.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Remix_8/8B3182_assembly5.bin
 .org 0x088B323E
-.import EN_SourceCode/Graphics/Rhythm_Games/Remix_8/8B323E_assembly6.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Remix_8/8B323E_assembly6.bin
 ;eof

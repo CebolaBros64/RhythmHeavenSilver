@@ -2,7 +2,7 @@
 .dw bf6678_samurai_intro2 |0x80000000
 ;Title
 .org 0x088AFE4C
-.import EN_SourceCode/Graphics/RhythmGame/samurai/8AFE4C_assembly0.bin
+.import PT-BR_SourceCode/Graphics/RhythmGame/samurai/8AFE4C_assembly0.bin
 .org 0x088AFFE8
 .dw X8AFE90_assembly1
 .org 0x088AFFF0

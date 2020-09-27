@@ -6,7 +6,7 @@
 .dw c781ac_built1_tile1 |0x80000000
 ;title
 .org 0x088F6090
-.import EN_SourceCode/Graphics/Rhythm_Games/Polyrhythm/8F6090_assembly0.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Polyrhythm/8F6090_assembly0.bin
 .org 0x088F60AA
-.import EN_SourceCode/Graphics/Rhythm_Games/Polyrhythm/8F60AA_assembly1.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Polyrhythm/8F60AA_assembly1.bin
 ;eof

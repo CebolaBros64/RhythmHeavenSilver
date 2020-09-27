@@ -4,14 +4,14 @@
 .dw ccc138_perfect_tile1 |0x80000000
 //Superb, OK, Try Again
 .org 0x0890B422
-.import EN_SourceCode/Graphics/Rhythm_Games/Results_Screen/90B422_assembly0.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Results_Screen/90B422_assembly0.bin
 .org 0x0890B466
-.import EN_SourceCode/Graphics/Rhythm_Games/Results_Screen/90B466_assembly1.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Results_Screen/90B466_assembly1.bin
 .org 0x0890B4DA
-.import EN_SourceCode/Graphics/Rhythm_Games/Results_Screen/90B4DA_assembly2.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Results_Screen/90B4DA_assembly2.bin
 //Pretty well bubble (compliment and failure)
 .org 0x0890B554
-.import EN_SourceCode/Graphics/Rhythm_Games/Results_Screen/90B554_assembly0.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Results_Screen/90B554_assembly0.bin
 //But still just...
 .org 0x0890B724
 .dw X90B546_assembly0

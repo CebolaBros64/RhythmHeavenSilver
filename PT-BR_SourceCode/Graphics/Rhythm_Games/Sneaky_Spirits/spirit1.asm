@@ -10,9 +10,9 @@
 .org 0x088AD2D4
 .dw X8AD236_assembly3
 .org 0x088AD256
-.import EN_SourceCode/Graphics/Rhythm_Games/Sneaky_Spirits/8AD256_assembly4.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sneaky_Spirits/8AD256_assembly4.bin
 .org 0x088AD282
-.import EN_SourceCode/Graphics/Rhythm_Games/Sneaky_Spirits/8AD282_assembly5.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sneaky_Spirits/8AD282_assembly5.bin
 .org 0x088AD204
-.import EN_SourceCode/Graphics/Rhythm_Games/Sneaky_Spirits/8AD204_assembly6.bin
+.import PT-BR_SourceCode/Graphics/Rhythm_Games/Sneaky_Spirits/8AD204_assembly6.bin
 ;eof
