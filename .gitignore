@@ -6,6 +6,8 @@
 *.bak
 # GBA Save State (?)
 *.sgm
+# Gameshark GBA Save
+*.sps
 # FLIPS Configuration
 flipscfg.bin
 # Compressed graphics, created as part of the compilation process
